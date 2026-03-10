@@ -1,0 +1,27 @@
+---
+description: Git commit and push – agent does not commit, check log for trailer before push
+globs: .cursor/AGENTS.md
+alwaysApply: false
+---
+
+# Git Commit
+
+**Agent does NOT execute `git commit`** – when agent runs commit, Cursor adds "Made-with: Cursor" trailer. Agent only:
+1. Stages (`git add .`)
+2. Proposes command: `git commit -m "message"`
+3. User copies and runs in their terminal
+
+- Never open editor (`git commit` without `-m`)
+- No trailers (Signed-off-by, Co-authored-by, Made-with: Cursor, etc.)
+
+# Push – Log Check
+
+**Before push** always check: `git log -3 --format=%B` (last 3 commits).
+
+If any commit contains a trailer (Made-with: Cursor, Co-authored-by: Cursor, etc.) – **push ABSOLUTELY FORBIDDEN**. Do not execute push. Notify user.
+
+Only if log is clean – propose `git push`.
+
+## FORBIDDEN
+
+**NEVER** modify git configuration: `git config`, `core.hooksPath`, `core.*`, etc. Absolutely forbidden.

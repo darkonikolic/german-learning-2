@@ -1,0 +1,45 @@
+---
+description: When user requests something beyond current logic – analyze and propose modifications in .cursor
+alwaysApply: true
+---
+
+# Extending Project Logic
+
+## When It Applies
+
+When user requests something **not covered** by current logic (rules, skills, AGENTS.md), do not execute immediately – first **analyze** and **propose modification**.
+
+**Proactive:** When user requests something new – **always offer** to add it to the logic. Do not wait for them to ask. After completing the task, ask: "Should I add this to the project logic (AGENTS.md / rules) so I'm always ready for such requests?"
+
+## Procedure
+
+1. **Analyze request** – what exactly does the user want to add or change?
+2. **Map** – where does it belong:
+   - new functionality → new skill or extend existing?
+   - new behavior rule → new rule or modify existing?
+   - new command/workflow → update AGENTS.md?
+3. **Propose** – concretely propose changes:
+   - which files to modify (paths)
+   - what to add/change (content)
+   - why (rationale)
+
+## Proposal Format
+
+```markdown
+## Request Analysis
+[What the user wants]
+
+## Proposed Modification
+
+### [File 1] – e.g. .cursor/skills/extract-german-vocabulary/SKILL.md
+- Change: [what]
+- Reason: [why]
+
+### [File 2] – e.g. .cursor/AGENTS.md
+- Change: [what]
+- Reason: [why]
+
+## Should I apply?
+```
+
+After proposal, ask user if they want to apply the changes. If they confirm – do it.

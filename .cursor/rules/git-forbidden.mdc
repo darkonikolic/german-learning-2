@@ -1,0 +1,15 @@
+---
+description: Git configuration – absolutely forbidden to modify
+alwaysApply: true
+---
+
+# Git – Absolutely Forbidden
+
+**NEVER** execute:
+
+- `git config core.hooksPath`
+- `git config --unset`
+- `git config` any `core.*` or global option
+- Any change to `.git/config`
+
+User must control git configuration. Agent is forbidden.
