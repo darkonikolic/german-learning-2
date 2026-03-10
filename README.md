@@ -7,6 +7,14 @@ Project for learning German at B1 level. Structure allows writing texts and auto
 ```
 german-learning-02/
 ├── texts/                    # Your texts (format: Y-m-d_H:i_title.md)
+├── themen/                   # Teme po grupama (grammatik, alltag, arbeit...)
+├── vremena/                  # Verb tenses (B1)
+│   ├── Präsens.md
+│   ├── Perfekt.md
+│   ├── Präteritum.md
+│   ├── Plusquamperfekt.md
+│   ├── Futur-I.md
+│   └── Futur-II.md
 ├── vocabulary/               # Extracted words by type (one file per type)
 │   ├── Substantive.md        # Nouns (der/die/das)
 │   ├── Verben.md             # Verbs (infinitive only)

@@ -16,6 +16,7 @@ When the user provides a German text or points to `texts/`, extract vocabulary a
 3. **Classify by type** – Substantiv, Verb, Adjektiv, Adverb, Präposition, or Andere
 4. **Filter for B1** – focus on B1-relevant vocabulary (everyday, work, health, travel, education, society)
 5. **Write to files** – append to existing `vocabulary/[Type].md` file (no subfolders)
+6. **Add consolidated text** – at end of source text file, add `## {title}` + full German paragraph (all [DE] lines as one block)
 
 ## File Mapping
 
@@ -45,7 +46,7 @@ Each vocabulary file. Words sorted alphabetically. Format per word:
 ```
 
 - **Substantive**: heading with article – `## der Arbeit`, `## die Kunst`
-- **Verben**: infinitive only. Verb tenses extracted separately – not in vocabulary.
+- **Verben**: infinitive only. Each verb gets links to `vremena/` (Präsens, Perfekt, Präteritum, Plusquamperfekt, Futur I, Futur II). **Kada se doda novi glagol u Verben.md, mora se dodati i u sve fajlove u `vremena/`** sa konjugacijom, prevodom i linkom na infinitiv.
 - **Translations**: [sr] Serbian, [en] English
 - **Sort**: alphabetically (ABC)
 - Empty line between each word block
@@ -57,3 +58,17 @@ Before adding a word, check if it already exists in the target file. If the file
 ## B1 Scope
 
 B1 vocabulary includes: work/career, health, daily life, society, education, travel, common adjectives (flexibel, zuverlässig), verbs (vergleichen, vorbereiten, verbessern), connectors (deshalb, trotzdem, außerdem).
+
+## Glagoli i vremena
+
+Kada se doda novi glagol u `vocabulary/Verben.md`:
+
+1. Dodati prazan red posle [en] prevoda
+2. Dodati linkove na sva vremena: `[Präsens](vremena/Präsens.md#verb) · [Perfekt](vremena/Perfekt.md#verb) · ...`
+3. Dodati glagol u **sve** fajlove u `vremena/` (Präsens, Perfekt, Präteritum, Plusquamperfekt, Futur-I, Futur-II) sa:
+   - konjugacijom u tom vremenu (ich, du, er/sie/es, wir, ihr, sie)
+   - praznim redom
+   - prevodom [sr] i [en]
+   - praznim redom
+   - linkom na infinitiv: `[→ verb](../vocabulary/Verben.md#verb)`
+4. Sortirati glagole ABC u svakom fajlu u `vremena/` (anchor za `sich anfühlen`: `#sich-anfühlen`)

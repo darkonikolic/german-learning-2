@@ -23,10 +23,12 @@ When working in this project, the agent helps with **learning German at B1 level
 |---------|--------|
 | "Create new text" / "Kreiraj tekst" | Create empty file in texts/ with format `Y-m-d_H:i_title.md` – only `# Title` and date (Y-m-d), no other content |
 | "Extract words from text X" | Run extract-german-vocabulary on specified text |
+| New verb added to Verben.md | Also add to all vremena/*.md with conjugation, [sr]/[en] translation, link to infinitive |
 | "Extract B1 words from all texts" | Process all files in texts/ |
 | "Add words from this text" | Same as above – extract and merge into vocabulary |
 | "Correct grammar" / "Korrigiere den Text" | Correct grammar in the text and list what was changed |
 | "Add translation" / "Dodaj prevod" | Add [DE] [SR] [EN] format per line, empty line between blocks |
+| After correction, extraction, or adding translations | Always add consolidated German text at end: `## {title}` + full German paragraph |
 | "What words have I learned?" | List or summarize vocabulary files |
 | "Commit" / "Push" / "Git commit and push" | Commit: stage, propose command, user runs. Push: check log for trailer first – if trailer exists, push FORBIDDEN |
 

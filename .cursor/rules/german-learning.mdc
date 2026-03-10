@@ -43,6 +43,18 @@ When adding translations to a text, use this format per sentence:
 
 Empty line between each block. Order: German, Serbian, English.
 
+## Consolidated German Text at End
+
+**Always** add at the end of the text file, after corrections, extraction, and translations:
+
+```markdown
+## {title}
+
+{All German sentences as one continuous paragraph}
+```
+
+Format: `## {title}` (from the main heading) followed by the full German text without [DE] tags.
+
 ## Word Type Mapping
 
 | German type | File | Examples |
@@ -71,7 +83,7 @@ One file per type. Words sorted alphabetically (ABC). Format per word:
 ```
 
 - **Substantive**: heading with article – `## der Arbeit`, `## die Kunst`, `## das Jahr`
-- **Verben**: infinitive only. Verb tenses (Präteritum, Perfekt, etc.) are extracted separately – not in the vocabulary.
+- **Verben**: infinitive only. Each verb has links to its forms in `vremena/` (Präsens, Perfekt, Präteritum, Plusquamperfekt, Futur I, Futur II).
 - **Translations**: [sr] Serbian, [en] English
 - **Sort**: words alphabetically (ABC)
 - Empty line between each word block
@@ -80,3 +92,33 @@ One file per type. Words sorted alphabetically (ABC). Format per word:
 ## B1 Level
 
 B1 covers ~2500–3000 words: everyday life, work, health, travel, education. Skip A1/A2 basic words (ich, und, ist) unless contextually important.
+
+## Vremena (Verb Tenses)
+
+Folder `vremena/` contains B1 tenses: Präsens, Perfekt, Präteritum, Plusquamperfekt, Futur-I, Futur-II.
+
+**Pravilo**: U svakom fajlu u `vremena/` moraju biti **svi** glagoli iz `vocabulary/Verben.md` – sa konjugacijom u tom vremenu, prevodom [sr]/[en] i linkom na infinitiv `[→ verb](vocabulary/Verben.md#verb)`.
+
+**Format u vremenima** (po glagolu):
+```markdown
+## {infinitive}
+
+{konjugacija: ich, du, er/sie/es, wir, ihr, sie}
+
+[sr] {prevod}
+[en] {prevod}
+
+[→ {infinitive}](../vocabulary/Verben.md#{anchor})
+```
+
+**Themen** – fajlovi u `themen/*/` (alltag/, grammatik/, itd.): link na vocabulary mora biti `../../vocabulary/` (dva nivoa gore).
+
+Prazan red: (1) između oblika i prevoda, (2) između prevoda i linka nazad.
+
+**Format u Verben.md** (za svaki glagol, posle [en]):
+```markdown
+
+[Präsens](../vremena/Präsens.md#verb) · [Perfekt](../vremena/Perfekt.md#verb) · [Präteritum](../vremena/Präteritum.md#verb) · [Plusquamperfekt](../vremena/Plusquamperfekt.md#verb) · [Futur I](../vremena/Futur-I.md#verb) · [Futur II](../vremena/Futur-II.md#verb)
+```
+
+Anchor za `sich anfühlen`: `#sich-anfühlen` (razmak → crtica).

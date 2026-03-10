@@ -10,6 +10,8 @@
 [sr] danas
 [en] today
 
+[Zeit & Datum](../themen/alltag/zeit-datum.md#heute)
+
 ## weiterhin
 
 [sr] i dalje
