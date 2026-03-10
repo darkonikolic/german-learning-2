@@ -30,17 +30,17 @@ When working in this project, the agent helps with **learning German at B1 level
 | "Add translation" / "Dodaj prevod" | Add [DE] [SR] [EN] format per line, empty line between blocks |
 | After correction, extraction, or adding translations | Always add consolidated German text at end: `## {title}` + full German paragraph |
 | "What words have I learned?" | List or summarize vocabulary files |
-| "Commit" / "Push" / "Git commit and push" | Commit: stage, propose command, user runs. Push: check log for trailer first – if trailer exists, push FORBIDDEN |
+| "Commit" / "Push" / "Git commit and push" | Commit: stage, propose message, user approves → agent runs commit. Push: user requested → agent checks log, if clean runs push |
 
 ## Git – Commit and Push
 
 When user requests commit and/or push:
 
 1. **Stage** – `git add .` (or specific files)
-2. **Propose** commit message and **exact command**
+2. **Propose** commit message
 3. **Ask**: "Is the message OK?"
-4. **Do not commit** until user approves
-5. After approval – **agent does NOT execute** `git commit`. Agent provides the command, **user copies and runs it in their terminal**. Reason: when agent runs commit, Cursor adds "Made-with: Cursor" trailer.
+4. **After user approves** – agent runs `git commit -m "..."`. If no trailer is added, proceed.
+5. **If user requested push** – agent checks log: `git log -3 --format=%B`. If any trailer exists (Made-with: Cursor, etc.) – **push FORBIDDEN**, notify user. If log is clean – agent runs `git push`.
 
 ## Commit Message Format
 
@@ -48,17 +48,13 @@ When user requests commit and/or push:
 - **Descriptive** – what was done, in brief
 - Example: "German learning B1 project: texts, vocabulary extraction by type, Cursor rules and skills"
 
-## Commit – No Trailers
-
-**Agent must NOT execute `git commit`** – Cursor adds trailer when agent runs the command. Agent only proposes the command, user runs it in terminal.
-
 ## Push – Log Check Before Push
 
 **Before every push** agent MUST check the log: `git log -3 --format=%B` (last 3 commits).
 
 If any commit contains a trailer (Made-with: Cursor, Co-authored-by: Cursor, Signed-off-by: Cursor, etc.) – **push is ABSOLUTELY FORBIDDEN**. Agent must NOT execute push. Notify user: "Push forbidden – trailer in log. Do amend or reset and recommit without trailer."
 
-Only if log is clean – agent may propose `git push` (user runs it).
+Only if log is clean – agent runs `git push`.
 
 ## Git – FORBIDDEN
 
