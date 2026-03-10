@@ -11,4 +11,4 @@ Words are distributed by type in one file per type (no subfolders):
 | Präpositionen.md | Prepositions | zur, am |
 | Andere.md | Conjunctions, particles, pronouns | und, aber, ich |
 
-Within each file words are grouped by source (text). Translations are in Serbian. Verb tenses are extracted separately – not in the vocabulary.
+Within each file words are sorted alphabetically. Format per word: `## {word}`, `[sr]`, `[en]`, empty line. Verb tenses are extracted separately – not in the vocabulary.

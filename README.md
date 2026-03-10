@@ -41,16 +41,14 @@ User writes content below. New files are created empty (title + date only).
 
 ## Vocabulary File Format
 
-One file per type. Words grouped by source. Translations in Serbian. Verbs in infinitive only:
+One file per type. Words sorted alphabetically. Format per word:
 
 ```markdown
-# [Type]
+## {word}
 
-## [text-name]
+[sr] {Serbian}
+[en] {English}
 
-| Word | Article | Translation | Example |
-|------|---------|-------------|---------|
-| Arbeit | die | work | Ich gehe zur Arbeit. |
 ```
 
 ## B1 Level

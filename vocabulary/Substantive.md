@@ -1,25 +1,96 @@
 # Substantive
 
-## das-rainbow-village-in-taichung
+## der Besucher
 
-| Word | Article | Translation | Example |
-|-----|---------|--------|--------|
-| Kunstpark | der | umetnički park | ein farbenfroher Kunstpark |
-| Wandbild | das | mural, zidna slika | leuchtenden Wandbilder |
-| Wand | die | zid | die Wände und den Boden bedecken |
-| Boden | der | pod | die Wände und den Boden bedecken |
-| Dorf | das | selo | das Dorf berühmt wurde |
-| Soldat | der | vojnik | ein ehemaliger Soldat |
-| Kunst | die | umetnost | Seine Kunst zog viele an |
-| Student | der | student | viele Studenten und Besucher |
-| Besucher | der | posetilac | Besucher aus aller Welt |
-| Foto | das | fotografija | Fotos der Wandbilder |
-| Internet | das | internet | wurden im Internet sehr beliebt |
-| Jahr | das | godina | Im Jahr 2010 |
-| Mensch | der | čovek | die Menschen eine Kampagne |
-| Kampagne | die | kampanja | eine Kampagne starteten |
-| Maler | der | slikar | Der Maler wurde bekannt |
-| Künstler | der | umetnik | neue Künstler |
-| Märchen | das | bajka | wie ein Märchen anfühlt |
-| Welt | die | svet | aus aller Welt |
-| Schutz | der | zaštita | steht unter Schutz |
+[sr] posetilac
+[en] visitor
+
+## der Boden
+
+[sr] pod
+[en] floor, ground
+
+## das Dorf
+
+[sr] selo
+[en] village
+
+## das Foto
+
+[sr] fotografija
+[en] photo
+
+## das Internet
+
+[sr] internet
+[en] internet
+
+## das Jahr
+
+[sr] godina
+[en] year
+
+## die Kampagne
+
+[sr] kampanja
+[en] campaign
+
+## die Kunst
+
+[sr] umetnost
+[en] art
+
+## der Kunstpark
+
+[sr] umetnički park
+[en] art park
+
+## der Künstler
+
+[sr] umetnik
+[en] artist
+
+## der Maler
+
+[sr] slikar
+[en] painter
+
+## das Märchen
+
+[sr] bajka
+[en] fairy tale
+
+## der Mensch
+
+[sr] čovek
+[en] person, human
+
+## der Schutz
+
+[sr] zaštita
+[en] protection
+
+## der Soldat
+
+[sr] vojnik
+[en] soldier
+
+## der Student
+
+[sr] student
+[en] student
+
+## die Wand
+
+[sr] zid
+[en] wall
+
+## das Wandbild
+
+[sr] mural, zidna slika
+[en] mural, wall painting
+
+## die Welt
+
+[sr] svet
+[en] world

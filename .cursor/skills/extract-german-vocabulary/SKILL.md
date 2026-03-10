@@ -28,25 +28,27 @@ When the user provides a German text or points to `texts/`, extract vocabulary a
 | Präposition | vocabulary/Präpositionen.md |
 | Konjunktion, Partikel, Pronomen | vocabulary/Andere.md |
 
-**No subfolders** – one file per type, all words grouped by source within sections.
+**No subfolders** – one file per type, words sorted alphabetically.
 
 ## Output Format
 
-Each vocabulary file: one section per text source:
+Each vocabulary file. Words sorted alphabetically. Format per word:
 
 ```markdown
 # [Type]
 
-## [source-name]
+## {word}
 
-| Word | Article | Translation | Example |
-|------|---------|--------------|---------|
-| Arbeit | die | work | Ich gehe zur Arbeit. |
+[sr] {Serbian translation}
+[en] {English translation}
+
 ```
 
-- **Substantive**: include article (der/die/das)
-- **Verben**: infinitive only. Verb tenses (Präteritum, Perfekt, etc.) are extracted separately – not in the vocabulary.
-- **Translation**: always in Serbian. Include Serbian translation and example sentence from the text when possible.
+- **Substantive**: heading with article – `## der Arbeit`, `## die Kunst`
+- **Verben**: infinitive only. Verb tenses extracted separately – not in vocabulary.
+- **Translations**: [sr] Serbian, [en] English
+- **Sort**: alphabetically (ABC)
+- Empty line between each word block
 
 ## Deduplication
 

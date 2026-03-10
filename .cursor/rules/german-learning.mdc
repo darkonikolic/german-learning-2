@@ -30,6 +30,19 @@ No additional content – user writes the text themselves.
 
 All `.md` files in `texts/` must follow this format (title + date).
 
+## Translation Format in texts/
+
+When adding translations to a text, use this format per sentence:
+
+```
+[DE] {German}
+[SR] {Serbian}
+[EN] {English}
+
+```
+
+Empty line between each block. Order: German, Serbian, English.
+
 ## Word Type Mapping
 
 | German type | File | Examples |
@@ -45,21 +58,23 @@ All `.md` files in `texts/` must follow this format (title + date).
 
 ## Vocabulary File Format
 
-One file per type. Words grouped by source (text):
+One file per type. Words sorted alphabetically (ABC). Format per word:
 
 ```markdown
 # [Type]
 
-## [text-name]
+## {word}
 
-| Word | Article | Translation | Example |
-|------|---------|--------------|---------|
-| Arbeit | die | work | Ich gehe zur Arbeit. |
+[sr] {Serbian translation}
+[en] {English translation}
+
 ```
 
-- **Substantive**: include gender (der/die/das)
+- **Substantive**: heading with article – `## der Arbeit`, `## die Kunst`, `## das Jahr`
 - **Verben**: infinitive only. Verb tenses (Präteritum, Perfekt, etc.) are extracted separately – not in the vocabulary.
-- **Translation**: always in Serbian
+- **Translations**: [sr] Serbian, [en] English
+- **Sort**: words alphabetically (ABC)
+- Empty line between each word block
 - Do not duplicate words – check existing files before adding
 
 ## B1 Level

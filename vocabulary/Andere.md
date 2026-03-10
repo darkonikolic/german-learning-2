@@ -1,9 +1,16 @@
 # Andere (Konjunktionen, Partikeln, Pronomen)
 
-## das-rainbow-village-in-taichung
+## Auch wenn
 
-| Word | Type | Translation | Example |
-|-----|-----|--------|--------|
-| Doch | Konjunktion | ali, ipak | Doch ein ehemaliger Soldat begann |
-| Bevor | Konjunktion | pre nego što | Bevor das Dorf berühmt wurde |
-| Auch wenn | Konjunktion | čak i ako | Auch wenn er heute nicht mehr malt |
+[sr] čak i ako
+[en] even if
+
+## Bevor
+
+[sr] pre nego što
+[en] before
+
+## Doch
+
+[sr] ali, ipak
+[en] but, however

@@ -1,13 +1,36 @@
 # Präpositionen
 
-## das-rainbow-village-in-taichung
+## als
 
-| Word | Translation | Example |
-|-----|--------|--------|
-| für | za | bekannt für seine Wandbilder |
-| aus | iz | aus dem Dorf |
-| im | u (u dativu) | im Internet |
-| um | da bi, radi | um das Dorf zu schützen |
-| als | kao | wurde als "Opa Regenbogen" bekannt |
-| unter | pod | steht unter Schutz |
-| wie | kao | wie ein Märchen |
+[sr] kao
+[en] as
+
+## aus
+
+[sr] iz
+[en] from, out of
+
+## für
+
+[sr] za
+[en] for
+
+## im
+
+[sr] u (u dativu)
+[en] in (dative)
+
+## um
+
+[sr] da bi, radi
+[en] in order to, for
+
+## unter
+
+[sr] pod
+[en] under
+
+## wie
+
+[sr] kao
+[en] like, as

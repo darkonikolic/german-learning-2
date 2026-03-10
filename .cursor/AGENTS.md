@@ -26,6 +26,7 @@ When working in this project, the agent helps with **learning German at B1 level
 | "Extract B1 words from all texts" | Process all files in texts/ |
 | "Add words from this text" | Same as above – extract and merge into vocabulary |
 | "Correct grammar" / "Korrigiere den Text" | Correct grammar in the text and list what was changed |
+| "Add translation" / "Dodaj prevod" | Add [DE] [SR] [EN] format per line, empty line between blocks |
 | "What words have I learned?" | List or summarize vocabulary files |
 | "Commit" / "Push" / "Git commit and push" | Commit: stage, propose command, user runs. Push: check log for trailer first – if trailer exists, push FORBIDDEN |
 
