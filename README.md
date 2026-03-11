@@ -2,6 +2,8 @@
 
 Project for learning German. Lekcije (evidencija časova), texts, vocabulary extraction, grammar.
 
+**Cursor:** Za commit bez trailera → Settings → Agent → Attribution → OFF. Vidi `.cursor/SETUP.md`.
+
 ## Structure
 
 ```

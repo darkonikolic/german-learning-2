@@ -38,38 +38,36 @@ When working in this project, the agent helps with **learning German (A1→B1)**
 | "Ispravi belške iz lekcije X" | Correct grammar inline (wherever user wrote), add translations [DE] [SR] [EN] in Prevodi |
 | "Izvuci reči i gramatiku iz lekcije X" | Extract words to vocabulary/, add to vremena/ if verbs, note grammar in Gramatika, add links in Reči. **Verify every link** (path + anchor) before finishing |
 | "Ispravi i izvuci" / "Ispravi i izvuci reči i gramatiku" | Both: correct + extract |
-| "Commit" / "Push" / "Git commit and push" | Stage, propose message, **wait for user approval**, then commit. Push: **RED FLAG** – MUST check log for trailers first, never push if trailer exists |
+| "Commit" / "Push" / "Git commit and push" | Stage, propose message, wait for approval, commit. Push: agent runs only when user requests AND log has no trailer |
 
 ## Git – Commit and Push
+
+**Commit:** Cursor can add trailers. To avoid: **Cursor Settings → Agent → Attribution → OFF.**
 
 When user requests commit and/or push:
 
 1. **Stage** – `git add .` (or specific files)
 2. **Propose** commit message
 3. **STOP. Ask**: "Is the message OK?" – **NEVER commit without explicit user approval** (da, ok, odobreno)
-4. **Only after user approves** – agent runs `git commit -m "..."`. Do not add --signoff or any option that adds trailers.
-5. **If user requested push** – **RED FLAG: STOP.** Agent MUST run `git log -3 --format=%B` and verify NO trailers (Made-with, Co-authored-by, Signed-off-by, etc.). If ANY trailer exists – **push ABSOLUTELY FORBIDDEN**, notify user. **Never push without this check.** Only if log is clean – agent runs `git push`.
+4. **Only after user approves** – agent runs `git commit -m "..."`.
+5. **If user requested push** – Agent MUST first run `git log -3 --format=%B`. If ANY trailer exists → **push FORBIDDEN**, notify user, only soft reset allowed. **Only if log is clean** → agent runs `git push`.
+
+## RED FLAG – Trailer in Log
+
+If `git log` shows ANY trailer (Made-with, Co-authored-by, Signed-off-by):
+
+- **Agent can ONLY:** soft reset (`git reset --soft HEAD~1`)
+- **Agent FORBIDDEN:** push. Never run `git push` when trailer exists.
+- **User must:** Cursor Settings → Agent → Attribution → OFF, recommit. Then agent can push (if user requests and log is clean).
 
 ## Commit Message Format
 
 - **No prefixes** – no "feat:", "fix:", "chore:" etc.
 - **Descriptive** – what was done, in brief
-- Example: "German learning B1 project: texts, vocabulary extraction by type, Cursor rules and skills"
-
-## Push – Log Check Before Push (RED FLAG)
-
-**NEVER push without first checking.** Before every push:
-
-1. Run `git log -3 --format=%B` (last 3 commits)
-2. Inspect output for ANY trailer: Made-with, Co-authored-by, Signed-off-by, etc.
-3. If trailer exists → **push ABSOLUTELY FORBIDDEN**. Stop. Notify user: "Push forbidden – trailer in log. Do amend or reset and recommit without trailer."
-4. Only if log is clean → proceed with `git push`
 
 ## Git – FORBIDDEN
 
-**NEVER** modify git configuration: `git config`, `core.hooksPath`, `core.*`, etc. Absolutely forbidden.
-
-**NEVER** commit without explicit user approval of the message. **NEVER** add trailers (--signoff, Co-authored-by, etc.).
+**NEVER** modify git configuration. **NEVER** add trailers. **NEVER** push when trailer exists in log.
 
 ## Extending Logic
 

@@ -1,27 +1,25 @@
 ---
-description: Git commit and push – agent does not commit, check log for trailer before push
+description: Git – agent never pushes; trailer = only soft reset; Cursor Attribution OFF
 globs: .cursor/AGENTS.md
 alwaysApply: false
 ---
 
 # Git Commit
 
-**Agent does NOT execute `git commit`** – when agent runs commit, Cursor adds "Made-with: Cursor" trailer. Agent only:
-1. Stages (`git add .`)
-2. Proposes command: `git commit -m "message"`
-3. User copies and runs in their terminal
+Agent may run `git commit -m "..."` after user approves message. **To avoid trailers:** Cursor Settings → Agent → Attribution → OFF.
 
-- Never open editor (`git commit` without `-m`)
-- No trailers (Signed-off-by, Co-authored-by, Made-with: Cursor, etc.)
+# Push
 
-# Push – Log Check
+Agent runs `git push` **only when user requests** AND **log has no trailer**.
 
-**Before push** always check: `git log -3 --format=%B` (last 3 commits).
+Before push: agent MUST run `git log -3 --format=%B`. If trailer exists → push FORBIDDEN, only soft reset allowed.
 
-If any commit contains a trailer (Made-with: Cursor, Co-authored-by: Cursor, etc.) – **push ABSOLUTELY FORBIDDEN**. Do not execute push. Notify user.
+# RED FLAG – Trailer in Log
 
-Only if log is clean – propose `git push`.
+- Agent: only `git reset --soft HEAD~1` allowed, push FORBIDDEN
+- User: Cursor Settings → Agent → Attribution → OFF, recommit
+- Then: agent can push (if user requests and log is clean)
 
 ## FORBIDDEN
 
-**NEVER** modify git configuration: `git config`, `core.hooksPath`, `core.*`, etc. Absolutely forbidden.
+**NEVER** push when trailer in log. **NEVER** modify git config.
