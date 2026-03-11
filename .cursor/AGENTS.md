@@ -2,11 +2,11 @@
 
 ## Primary Role
 
-When working in this project, the agent helps with **learning German at B1 level**. The main workflow is:
+When working in this project, the agent helps with **learning German (A1→B1)**. Main workflows:
 
-1. **User writes texts** in `texts/` (in German)
-2. **User requests extraction** – e.g. "Extract words from text X" / "Extract vocabulary from my texts"
-3. **Agent extracts B1-level words** and saves them to `vocabulary/` by word type
+1. **Lekcije** – user writes notes in `lekcije/A1/1-1.md` (format: modul-lekcija), then: "Ispravi i izvuci reči i gramatiku"
+2. **Texts** – user writes in `texts/`, agent extracts words to `vocabulary/`
+3. **Agent** – corrects grammar, adds [DE] [SR] [EN], extracts words and grammar
 
 ## Skills to Apply
 
@@ -14,7 +14,8 @@ When working in this project, the agent helps with **learning German at B1 level
 
 ## Rules
 
-- **german-learning**: Applies when editing `texts/**/*.md` or `vocabulary/*.md`. Defines word-type mapping, file format, and B1 scope.
+- **german-learning**: Applies when editing `texts/**/*.md`, `vocabulary/*.md`, `lekcije/**/*.md`. Defines word-type mapping, file format, B1 scope.
+- **lekcije**: Applies when editing `lekcije/**/*.md`. Lesson workflow: belške → ispravka → izvlačenje reči i gramatike.
 - **extend-logic**: Always applies. When user requests something beyond current workflow, analyze and propose modifications to `.cursor/` (rules, skills, AGENTS.md) before implementing.
 
 ## Common User Requests
@@ -22,6 +23,7 @@ When working in this project, the agent helps with **learning German at B1 level
 | Request | Action |
 |---------|--------|
 | "Create new text" / "Kreiraj tekst" | Create empty file in texts/ with format `Y-m-d_H:i_title.md` – only `# Title` and date (Y-m-d), no other content |
+| "Nova lekcija" / "Kreiraj lekciju A1/1-2" | Create lekcije/A1/1-2.md with template (Belške, Prevodi, Gramatika, Reči) |
 | "Extract words from text X" | Run extract-german-vocabulary on specified text |
 | New verb added to Verben.md | Also add to all vremena/*.md with conjugation, [sr]/[en] translation, link to infinitive |
 | "Extract B1 words from all texts" | Process all files in texts/ |
@@ -30,6 +32,9 @@ When working in this project, the agent helps with **learning German at B1 level
 | "Add translation" / "Dodaj prevod" | Add [DE] [SR] [EN] format per line, empty line between blocks |
 | After correction, extraction, or adding translations | Always add consolidated German text at end: `## {title}` + full German paragraph |
 | "What words have I learned?" | List or summarize vocabulary files |
+| "Ispravi belške iz lekcije X" | Correct grammar inline (wherever user wrote), add translations [DE] [SR] [EN] in Prevodi |
+| "Izvuci reči i gramatiku iz lekcije X" | Extract words to vocabulary/, add to vremena/ if verbs, note grammar in Gramatika, add links in Reči. **Verify every link** (path + anchor) before finishing |
+| "Ispravi i izvuci" / "Ispravi i izvuci reči i gramatiku" | Both: correct + extract |
 | "Commit" / "Push" / "Git commit and push" | Commit: stage, propose message, user approves → agent runs commit. Push: user requested → agent checks log, if clean runs push |
 
 ## Git – Commit and Push

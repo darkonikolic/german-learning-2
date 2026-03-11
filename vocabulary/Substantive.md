@@ -1,5 +1,10 @@
 # Substantive
 
+## der Abend
+
+[sr] veče
+[en] evening
+
 ## der Besucher
 
 [sr] posetilac
@@ -91,6 +96,16 @@
 
 [Gesellschaft](../themen/gesellschaft/gesellschaft.md#der-mensch)
 
+## der Morgen
+
+[sr] jutro
+[en] morning
+
+## der Name
+
+[sr] ime
+[en] name
+
 ## der Schutz
 
 [sr] zaštita
@@ -109,6 +124,11 @@
 [en] student
 
 [Schule & Lernen](../themen/bildung/schule-lernen.md#der-student)
+
+## der Tag
+
+[sr] dan
+[en] day
 
 ## die Wand
 

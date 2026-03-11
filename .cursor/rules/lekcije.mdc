@@ -1,0 +1,76 @@
+---
+description: Lekcije nemackog – belške, ispravka, izvlačenje reči i gramatike
+globs: lekcije/**/*.md
+alwaysApply: false
+---
+
+# Lekcije – Evidencija časova
+
+## Struktura
+
+- `lekcije/A1/`, `lekcije/A2/`, `lekcije/B1/` – po nivou
+- Jedan fajl po lekciji: `1-1.md`, `1-2.md`, `2-1.md`, ... (format: modul-lekcija)
+
+## Format lekcije
+
+```markdown
+# A1/1-1
+
+[Datum]
+[Kurs]
+
+## Belške
+_(korisnik piše tokom časa)_
+
+## Prevodi
+_(sve rečenice ili tekstovi prevedeni [DE] [SR] [EN])_
+
+## Gramatika
+_(gramatičke tačke iz lekcije)_
+
+## Reči
+_(linkovi na vocabulary/)_
+
+## Izvor
+_(linkovi na delove predavanja iz kursa – izvor sadržaja za učenje. Deo 1, Deo 2… sa naslovima. Lekcija može imati više delova; kad se završi, nova lekcija 1-2, 1-3…)_
+```
+
+## Ispravke
+
+**Ispravke gramatike agent radi svuda** – gde god korisnik nešto napiše (Belške, bilo koja sekcija). Nema posebne sekcije za ispravke.
+
+## Workflow
+
+1. **"Ispravi belške iz lekcije X"** – ispravi gramatiku inline (gde god je potrebno), dodaj prevode u sekciju Prevodi
+2. **"Izvuci reči i gramatiku iz lekcije X"** – izvuci reči u vocabulary/, dodaj u vremena/ ako su glagoli, zabeleži gramatiku u sekciju Gramatika, dodaj linkove u sekciju Reči
+3. **"Ispravi i izvuci"** – oba koraka
+
+## Nivoi
+
+- **A1** – sve reči, osnovna gramatika (Präsens, članovi, lične zamenice)
+- **A2** – Perfekt, Präteritum, složenije rečenice
+- **B1** – postojeći vocabulary scope
+
+## Izvlačenje reči iz lekcije
+
+Isto kao extract-german-vocabulary – ali bez B1 filtra za A1 lekcije. Za A1 izvlači sve relevantne reči.
+
+## Zamenice – izvlačenje po tipu
+
+**Zamenice se uvek izvlače po tipu** i beleže u Gramatici lekcije.
+
+Tipovi: **lične** (ich, du, er…), **posedovne** (mein, dein…), **upitne** (wer, was…), **povratne** (mich, dich, sich…), **pokazne** (dieser…), **odnosne** (der, die, das…).
+
+- Zamenice → `vocabulary/Zamenice.md` (sekcija po tipu: Lične, Posedovne, …)
+- U Gramatici lekcije: tabela ili lista zamenica sa tipom
+
+## Linkovi u Reči – obavezno proveriti
+
+**Svaki link koji agent postavi mora biti proveren.**
+
+1. **Putanja** – relativna od fajla lekcije. Iz `lekcije/A1/1-1.md` → `../../vocabulary/Substantive.md`
+2. **Anchor** – mora odgovarati slug-u naslova u ciljnom fajlu:
+   - `## hallo` → `#hallo`
+   - `## der Morgen` → `#der-morgen` (razmak → crtica)
+   - `## heißen` → `#heißen` ili `#heissen` (proveriti renderer: ß→ss, ö→o)
+3. **Provera** – pre dodavanja linka: otvori ciljni fajl, potvrdi da heading postoji, proveri da li link radi (npr. Cmd+click u editoru).

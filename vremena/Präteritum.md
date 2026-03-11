@@ -38,6 +38,15 @@ ich bemalte, du bemaltest, er/sie/es bemalte, wir bemalten, ihr bemaltet, sie be
 
 [→ bemalen](../vocabulary/Verben.md#bemalen)
 
+## heißen
+
+ich hieß, du hießt, er/sie/es hieß, wir hießen, ihr hießt, sie hießen  
+
+[sr] zvao sam se, zvao si se, zvao se je, zvali smo se, zvali ste se, zvali su se  
+[en] I was called, you were called, he/she/it was called, we were called, you were called, they were called  
+
+[→ heißen](../vocabulary/Verben.md#heißen)
+
 ## helfen
 
 ich half, du halfst, er/sie/es half, wir halfen, ihr halft, sie halfen  
@@ -82,6 +91,15 @@ ich schützte, du schütztest, er/sie/es schützte, wir schützten, ihr schützt
 [en] I protected, you protected, he/she/it protected, we protected, you protected, they protected  
 
 [→ schützen](../vocabulary/Verben.md#schützen)
+
+## sein
+
+ich war, du warst, er/sie/es war, wir waren, ihr wart, sie waren  
+
+[sr] bio sam, bio si, bio je, bili smo, bili ste, bili su  
+[en] I was, you were, he/she/it was, we were, you were, they were  
+
+[→ sein](../vocabulary/Verben.md#sein)
 
 ## sich anfühlen
 

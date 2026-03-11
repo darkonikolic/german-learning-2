@@ -34,6 +34,13 @@ Infinitive only. Verb tenses (Präteritum, Perfekt, etc.) are in `vremena/`. Eac
 [Präsens](../vremena/Präsens.md#bemalen) · [Perfekt](../vremena/Perfekt.md#bemalen) · [Präteritum](../vremena/Präteritum.md#bemalen) · [Plusquamperfekt](../vremena/Plusquamperfekt.md#bemalen) · [Futur I](../vremena/Futur-I.md#bemalen) · [Futur II](../vremena/Futur-II.md#bemalen)  
 [Schwache Verben](../themen/grammatik/schwache-verben.md#bemalen) · [Haus & Wohnung](../themen/alltag/haus-wohnung.md#bemalen) · [Kunst](../themen/gesellschaft/kunst.md#bemalen)
 
+## heißen
+
+[sr] zvati se, nazivati se
+[en] to be called, to be named
+
+[Präsens](../vremena/Präsens.md#heißen) · [Perfekt](../vremena/Perfekt.md#heißen) · [Präteritum](../vremena/Präteritum.md#heißen) · [Plusquamperfekt](../vremena/Plusquamperfekt.md#heißen) · [Futur I](../vremena/Futur-I.md#heißen) · [Futur II](../vremena/Futur-II.md#heißen)
+
 ## helfen
 
 [sr] pomoći
@@ -73,6 +80,13 @@ Infinitive only. Verb tenses (Präteritum, Perfekt, etc.) are in `vremena/`. Eac
 
 [Präsens](../vremena/Präsens.md#schützen) · [Perfekt](../vremena/Perfekt.md#schützen) · [Präteritum](../vremena/Präteritum.md#schützen) · [Plusquamperfekt](../vremena/Plusquamperfekt.md#schützen) · [Futur I](../vremena/Futur-I.md#schützen) · [Futur II](../vremena/Futur-II.md#schützen)  
 [Schwache Verben](../themen/grammatik/schwache-verben.md#schützen)
+
+## sein
+
+[sr] biti
+[en] to be
+
+[Präsens](../vremena/Präsens.md#sein) · [Perfekt](../vremena/Perfekt.md#sein) · [Präteritum](../vremena/Präteritum.md#sein) · [Plusquamperfekt](../vremena/Plusquamperfekt.md#sein) · [Futur I](../vremena/Futur-I.md#sein) · [Futur II](../vremena/Futur-II.md#sein)
 
 ## sich anfühlen
 

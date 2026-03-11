@@ -38,6 +38,15 @@ ich hatte bemalt, du hattest bemalt, er/sie/es hatte bemalt, wir hatten bemalt, 
 
 [→ bemalen](../vocabulary/Verben.md#bemalen)
 
+## heißen
+
+ich hatte geheißen, du hattest geheißen, er/sie/es hatte geheißen, wir hatten geheißen, ihr hattet geheißen, sie hatten geheißen  
+
+[sr] bio sam se zvao, bio si se zvao, bio je se zvao, bili smo se zvali, bili ste se zvali, bili su se zvali  
+[en] I had been called, you had been called, he/she/it had been called, we had been called, you had been called, they had been called  
+
+[→ heißen](../vocabulary/Verben.md#heißen)
+
 ## helfen
 
 ich hatte geholfen, du hattest geholfen, er/sie/es hatte geholfen, wir hatten geholfen, ihr hattet geholfen, sie hatten geholfen  
@@ -82,6 +91,15 @@ ich hatte geschützt, du hattest geschützt, er/sie/es hatte geschützt, wir hat
 [en] I had protected, you had protected, he/she/it had protected, we had protected, you had protected, they had protected  
 
 [→ schützen](../vocabulary/Verben.md#schützen)
+
+## sein
+
+ich war gewesen, du warst gewesen, er/sie/es war gewesen, wir waren gewesen, ihr wart gewesen, sie waren gewesen  
+
+[sr] bio sam, bio si, bio je, bili smo, bili ste, bili su (pre nego što...)  
+[en] I had been, you had been, he/she/it had been, we had been, you had been, they had been  
+
+[→ sein](../vocabulary/Verben.md#sein)
 
 ## sich anfühlen
 

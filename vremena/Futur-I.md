@@ -38,6 +38,15 @@ ich werde bemalen, du wirst bemalen, er/sie/es wird bemalen, wir werden bemalen,
 
 [→ bemalen](../vocabulary/Verben.md#bemalen)
 
+## heißen
+
+ich werde heißen, du wirst heißen, er/sie/es wird heißen, wir werden heißen, ihr werdet heißen, sie werden heißen  
+
+[sr] zvaću se, zvaćeš se, zvaće se, zvaćemo se, zvaćete se, zvaće se  
+[en] I will be called, you will be called, he/she/it will be called, we will be called, you will be called, they will be called  
+
+[→ heißen](../vocabulary/Verben.md#heißen)
+
 ## helfen
 
 ich werde helfen, du wirst helfen, er/sie/es wird helfen, wir werden helfen, ihr werdet helfen, sie werden helfen  
@@ -82,6 +91,15 @@ ich werde schützen, du wirst schützen, er/sie/es wird schützen, wir werden sc
 [en] I will protect, you will protect, he/she/it will protect, we will protect, you will protect, they will protect  
 
 [→ schützen](../vocabulary/Verben.md#schützen)
+
+## sein
+
+ich werde sein, du wirst sein, er/sie/es wird sein, wir werden sein, ihr werdet sein, sie werden sein  
+
+[sr] biću, bićeš, biće, bićemo, bićete, biće  
+[en] I will be, you will be, he/she/it will be, we will be, you will be, they will be  
+
+[→ sein](../vocabulary/Verben.md#sein)
 
 ## sich anfühlen
 

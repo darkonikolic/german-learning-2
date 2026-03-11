@@ -38,6 +38,15 @@ ich bemale, du bemalst, er/sie/es bemalt, wir bemalen, ihr bemalt, sie bemalen
 
 [→ bemalen](../vocabulary/Verben.md#bemalen)
 
+## heißen
+
+ich heiße, du heißt, er/sie/es heißt, wir heißen, ihr heißt, sie heißen  
+
+[sr] zovem se, zoveš se, zove se, zovemo se, zovete se, zovu se  
+[en] I am called, you are called, he/she/it is called, we are called, you are called, they are called  
+
+[→ heißen](../vocabulary/Verben.md#heißen)
+
 ## helfen
 
 ich helfe, du hilfst, er/sie/es hilft, wir helfen, ihr helft, sie helfen  
@@ -82,6 +91,15 @@ ich schütze, du schützt, er/sie/es schützt, wir schützen, ihr schützt, sie 
 [en] I protect, you protect, he/she/it protects, we protect, you protect, they protect  
 
 [→ schützen](../vocabulary/Verben.md#schützen)
+
+## sein
+
+ich bin, du bist, er/sie/es ist, wir sind, ihr seid, sie sind  
+
+[sr] jesam, jesi, jeste, jesmo, jeste, jesu  
+[en] I am, you are, he/she/it is, we are, you are, they are  
+
+[→ sein](../vocabulary/Verben.md#sein)
 
 ## sich anfühlen
 

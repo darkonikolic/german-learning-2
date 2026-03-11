@@ -1,6 +1,6 @@
 ---
 description: German learning rules – extracting B1 words from texts
-globs: texts/**/*.md, vocabulary/*.md
+globs: texts/**/*.md, vocabulary/*.md, lekcije/**/*.md
 alwaysApply: false
 ---
 
@@ -64,7 +64,8 @@ Format: `## {title}` (from the main heading) followed by the full German text wi
 | Adjektiv | vocabulary/Adjektive.md | freundlich, wichtig |
 | Adverb | vocabulary/Adverbien.md | sehr, oft |
 | Präposition | vocabulary/Präpositionen.md | in, auf, mit |
-| Konjunktion, Partikel, Pronomen | vocabulary/Andere.md | und, aber, ich |
+| Konjunktion, Partikel | vocabulary/Andere.md | und, aber |
+| Pronomen (zamenice) | vocabulary/Zamenice.md | ich, du, dein – po tipu (lične, posedovne, upitne…) |
 
 **No subfolders** – one file per type.
 
@@ -122,3 +123,11 @@ Prazan red: (1) između oblika i prevoda, (2) između prevoda i linka nazad.
 ```
 
 Anchor za `sich anfühlen`: `#sich-anfühlen` (razmak → crtica).
+
+## Link verification – obavezno
+
+**Svaki link koji agent postavi mora biti proveren pre finalizacije.**
+
+- Proveri putanju (relativna od izvornog fajla)
+- Proveri anchor (slug naslova: razmaci→crtica, umlauti mogu varirati po rendereru)
+- Testiraj: Cmd/Ctrl+click u editoru – link mora otvoriti tačan fajl i scroll do naslova

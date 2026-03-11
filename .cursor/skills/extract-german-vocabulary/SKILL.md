@@ -27,7 +27,8 @@ When the user provides a German text or points to `texts/`, extract vocabulary a
 | Adjektiv | vocabulary/Adjektive.md |
 | Adverb | vocabulary/Adverbien.md |
 | Präposition | vocabulary/Präpositionen.md |
-| Konjunktion, Partikel, Pronomen | vocabulary/Andere.md |
+| Konjunktion, Partikel | vocabulary/Andere.md |
+| Pronomen (zamenice) | vocabulary/Zamenice.md – po tipu (lične, posedovne, upitne…) |
 
 **No subfolders** – one file per type, words sorted alphabetically.
 
@@ -72,3 +73,7 @@ Kada se doda novi glagol u `vocabulary/Verben.md`:
    - praznim redom
    - linkom na infinitiv: `[→ verb](../vocabulary/Verben.md#verb)`
 4. Sortirati glagole ABC u svakom fajlu u `vremena/` (anchor za `sich anfühlen`: `#sich-anfühlen`)
+
+## Link verification
+
+**Svaki link mora biti proveren.** Pre finalizacije: proveri putanju (relativna od izvornog fajla), proveri anchor (slug naslova), testiraj Cmd+click u editoru.

@@ -38,6 +38,15 @@ ich habe bemalt, du hast bemalt, er/sie/es hat bemalt, wir haben bemalt, ihr hab
 
 [→ bemalen](../vocabulary/Verben.md#bemalen)
 
+## heißen
+
+ich habe geheißen, du hast geheißen, er/sie/es hat geheißen, wir haben geheißen, ihr habt geheißen, sie haben geheißen  
+
+[sr] zvao sam se, zvao si se, zvao se je, zvali smo se, zvali ste se, zvali su se  
+[en] I have been called, you have been called, he/she/it has been called, we have been called, you have been called, they have been called  
+
+[→ heißen](../vocabulary/Verben.md#heißen)
+
 ## helfen
 
 ich habe geholfen, du hast geholfen, er/sie/es hat geholfen, wir haben geholfen, ihr habt geholfen, sie haben geholfen  
@@ -82,6 +91,15 @@ ich habe geschützt, du hast geschützt, er/sie/es hat geschützt, wir haben ges
 [en] I have protected, you have protected, he/she/it has protected, we have protected, you have protected, they have protected  
 
 [→ schützen](../vocabulary/Verben.md#schützen)
+
+## sein
+
+ich bin gewesen, du bist gewesen, er/sie/es ist gewesen, wir sind gewesen, ihr seid gewesen, sie sind gewesen  
+
+[sr] bio sam, bio si, bio je, bili smo, bili ste, bili su  
+[en] I have been, you have been, he/she/it has been, we have been, you have been, they have been  
+
+[→ sein](../vocabulary/Verben.md#sein)
 
 ## sich anfühlen
 

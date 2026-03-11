@@ -38,6 +38,15 @@ ich werde bemalt haben, du wirst bemalt haben, er/sie/es wird bemalt haben, wir 
 
 [→ bemalen](../vocabulary/Verben.md#bemalen)
 
+## heißen
+
+ich werde geheißen haben, du wirst geheißen haben, er/sie/es wird geheißen haben, wir werden geheißen haben, ihr werdet geheißen haben, sie werden geheißen haben  
+
+[sr] biću se zvao, bićeš se zvao, biće se zvao, bićemo se zvali, bićete se zvali, biće se zvali  
+[en] I will have been called, you will have been called, he/she/it will have been called, we will have been called, you will have been called, they will have been called  
+
+[→ heißen](../vocabulary/Verben.md#heißen)
+
 ## helfen
 
 ich werde geholfen haben, du wirst geholfen haben, er/sie/es wird geholfen haben, wir werden geholfen haben, ihr werdet geholfen haben, sie werden geholfen haben  
@@ -82,6 +91,15 @@ ich werde geschützt haben, du wirst geschützt haben, er/sie/es wird geschützt
 [en] I will have protected, you will have protected, he/she/it will have protected, we will have protected, you will have protected, they will have protected  
 
 [→ schützen](../vocabulary/Verben.md#schützen)
+
+## sein
+
+ich werde gewesen sein, du wirst gewesen sein, er/sie/es wird gewesen sein, wir werden gewesen sein, ihr werdet gewesen sein, sie werden gewesen sein  
+
+[sr] biću bio, bićeš bio, biće bio, bićemo bili, bićete bili, biće bili  
+[en] I will have been, you will have been, he/she/it will have been, we will have been, you will have been, they will have been  
+
+[→ sein](../vocabulary/Verben.md#sein)
 
 ## sich anfühlen
 

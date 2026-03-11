@@ -14,3 +14,9 @@
 
 [sr] ali, ipak
 [en] but, however
+
+## hallo
+
+[sr] zdravo, ćao
+[en] hello, hi
+

@@ -1,11 +1,15 @@
-# German Learning (B1)
+# German Learning (A1→B1)
 
-Project for learning German at B1 level. Structure allows writing texts and automatic word extraction by type.
+Project for learning German. Lekcije (evidencija časova), texts, vocabulary extraction, grammar.
 
 ## Structure
 
 ```
 german-learning-02/
+├── lekcije/                  # Evidencija časova (jedan fajl po lekciji)
+│   ├── A1/
+│   ├── A2/
+│   └── B1/
 ├── texts/                    # Your texts (format: Y-m-d_H:i_title.md)
 ├── themen/                   # Teme po grupama (grammatik, alltag, arbeit...)
 ├── vremena/                  # Verb tenses (B1)
@@ -41,7 +45,13 @@ Each file in `texts/` has format:
 
 User writes content below. New files are created empty (title + date only).
 
-## How to Use
+## Lekcije (Evidencija časova)
+
+1. **Piši belške** u `lekcije/A1/1-1.md` tokom časa
+2. **Kaži AI**: "Ispravi i izvuci reči i gramatiku iz lekcije 1-1" ili "iz A1/1-1"
+3. AI ispravlja gramatiku inline (gde god pišeš), dodaje prevode u Prevodi [DE] [SR] [EN], izvlači reči u `vocabulary/`, beleži gramatiku
+
+## How to Use (Texts)
 
 1. **Write a text** in `texts/` – file format `Y-m-d_H:i_title.md` (e.g. `texts/2025-03-10_14:30_mein-tag.md`)
 2. **Request extraction** – tell AI: "Extract B1 words from text X" or "Extract B1 vocabulary from texts/"
