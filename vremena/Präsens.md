@@ -2,6 +2,15 @@
 
 Sadašnje vreme. Svi glagoli iz rečnika, sortirani ABC.
 
+## ablehnen
+
+ich lehne ab, du lehnst ab, er/sie/es lehnt ab, wir lehnen ab, ihr lehnt ab, sie lehnen ab  
+
+[sr] odbijam, odbijaš, odbija, odbijamo, odbijate, odbijaju  
+[en] I reject, you reject, he/she/it rejects, we reject, you reject, they reject  
+
+[→ ablehnen](../vocabulary/Verben.md#ablehnen)
+
 ## abreißen
 
 ich reiße ab, du reißt ab, er/sie/es reißt ab, wir reißen ab, ihr reißt ab, sie reißen ab  
@@ -127,3 +136,21 @@ ich stehe, du stehst, er/sie/es steht, wir stehen, ihr steht, sie stehen
 [en] I stand, you stand, he/she/it stands, we stand, you stand, they stand  
 
 [→ stehen](../vocabulary/Verben.md#stehen)
+
+## verwenden
+
+ich verwende, du verwendest, er/sie/es verwendet, wir verwenden, ihr verwendet, sie verwenden  
+
+[sr] koristim, koristiš, koristi, koristimo, koristite, koriste  
+[en] I use, you use, he/she/it uses, we use, you use, they use  
+
+[→ verwenden](../vocabulary/Verben.md#verwenden)
+
+## zurückkehren
+
+ich kehre zurück, du kehrst zurück, er/sie/es kehrt zurück, wir kehren zurück, ihr kehrt zurück, sie kehren zurück  
+
+[sr] vraćam se, vraćaš se, vraća se, vraćamo se, vraćate se, vraćaju se  
+[en] I return, you return, he/she/it returns, we return, you return, they return  
+
+[→ zurückkehren](../vocabulary/Verben.md#zurückkehren)

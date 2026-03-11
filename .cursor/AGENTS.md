@@ -7,7 +7,8 @@ When working in this project, the agent helps with **learning German (A1→B1)**
 1. **Lekcije** – kurs, beleške u `lekcije/A1/1-1.md`, then: "Ispravi i izvuci"
 2. **Readle** – vežbe, user writes in `readle/`, agent extracts words to `vocabulary/`
 3. **Praktika** – beleške iz praktičnih sesija u `praktika/Y-m-d.md`, format: Šta sam radio, Belške, Prevodi
-4. **Agent** – corrects grammar, adds [DE] [SR] [EN], extracts words and grammar
+4. **Standup** – dnevni izveštaji u `standup/Y-m-d.md`, [DE] [SR] [EN] po pasusu, jednostavno i kratko
+5. **Agent** – corrects grammar, adds [DE] [SR] [EN], extracts words and grammar
 
 ## Skills to Apply
 
@@ -18,6 +19,7 @@ When working in this project, the agent helps with **learning German (A1→B1)**
 - **german-learning**: Applies when editing `readle/**/*.md`, `vocabulary/*.md`, `lekcije/**/*.md`. Defines word-type mapping, file format, B1 scope.
 - **lekcije**: Applies when editing `lekcije/**/*.md`. Lesson workflow: belške → ispravka → izvlačenje reči i gramatike.
 - **praktika**: Applies when editing `praktika/**/*.md`. Practice session notes: Šta sam radio, Belške, Prevodi.
+- **standup**: Applies when editing `standup/**/*.md`. Daily reports: [DE] [SR] [EN] per paragraph, simple and short.
 - **extend-logic**: Always applies. When user requests something beyond current workflow, analyze and propose modifications to `.cursor/` (rules, skills, AGENTS.md) before implementing.
 
 ## Common User Requests
@@ -27,6 +29,7 @@ When working in this project, the agent helps with **learning German (A1→B1)**
 | "Create new text" / "Kreiraj tekst" | Create empty file in readle/ with format `Y-m-d_H:i_title.md` – only `# Title` and date (Y-m-d), no other content |
 | "Nova lekcija" / "Kreiraj lekciju A1/1-2" | Create lekcije/A1/1-2.md with template (Belške, Prevodi, Gramatika, Reči) |
 | "Nova praktika" / "Kreiraj praktika za danas" | Create praktika/Y-m-d.md with template (Šta sam radio, Belške, Prevodi) |
+| "Sutrašnji izveštaj" / "Dodaj standup za Y-m-d" | Create standup/Y-m-d.md with [DE] [SR] [EN] format per paragraph |
 | "Extract words from text X" | Run extract-german-vocabulary on specified text |
 | New verb added to Verben.md | Also add to all vremena/*.md with conjugation, [sr]/[en] translation, link to infinitive |
 | "Extract B1 words from all texts" | Process all files in readle/ |
@@ -42,7 +45,7 @@ When working in this project, the agent helps with **learning German (A1→B1)**
 
 ## Git – Commit and Push
 
-**Commit:** Cursor can add trailers. To avoid: **Cursor Settings → Agent → Attribution → OFF.**
+**Attribution:** Agent sets attribution OFF — modifies `.vscode/settings.json` and user `settings.json` (`cursor.agent.attribution.enabled`: false). User never configures this.
 
 When user requests commit and/or push:
 
@@ -58,7 +61,7 @@ If `git log` shows ANY trailer (Made-with, Co-authored-by, Signed-off-by):
 
 - **Agent can ONLY:** soft reset (`git reset --soft HEAD~1`)
 - **Agent FORBIDDEN:** push. Never run `git push` when trailer exists.
-- **User must:** Cursor Settings → Agent → Attribution → OFF, recommit. Then agent can push (if user requests and log is clean).
+- **Agent must:** ensure attribution OFF in settings (workspace + user), then user recommits. Then agent can push (if user requests and log is clean).
 
 ## Commit Message Format
 

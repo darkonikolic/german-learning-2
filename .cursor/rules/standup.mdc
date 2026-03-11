@@ -1,0 +1,36 @@
+---
+description: Standup – dnevni izveštaji na 3 jezika
+globs: standup/**/*.md
+alwaysApply: false
+---
+
+# Standup – Dnevni izveštaji
+
+## Format
+
+- Folder: `standup/`
+- Ime fajla: `Y-m-d.md` (dan kada se priča)
+- Sadržaj: jedan pasus = [DE] [SR] [EN]. Grupovano po pasusu. Prazan red između blokova.
+
+## Struktura
+
+```markdown
+# Standup – [datum]
+
+[DE]
+1. {tačka 1}
+2. {tačka 2}
+3. {tačka 3}
+
+[SR]
+1. {tačka 1}
+2. {tačka 2}
+3. {tačka 3}
+
+[EN]
+1. {tačka 1}
+2. {tačka 2}
+3. {tačka 3}
+```
+
+**Uvek:** tačke sa brojevima (1, 2, 3…). Jednostavno, kratko.

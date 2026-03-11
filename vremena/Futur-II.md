@@ -2,6 +2,15 @@
 
 Buduće perfektno vreme. Svi glagoli iz rečnika, sortirani ABC.
 
+## ablehnen
+
+ich werde abgelehnt haben, du wirst abgelehnt haben, er/sie/es wird abgelehnt haben, wir werden abgelehnt haben, ihr werdet abgelehnt haben, sie werden abgelehnt haben  
+
+[sr] biću odbio, bićeš odbio, biće odbio, bićemo odbili, bićete odbili, biće odbili  
+[en] I will have rejected, you will have rejected, he/she/it will have rejected, we will have rejected, you will have rejected, they will have rejected  
+
+[→ ablehnen](../vocabulary/Verben.md#ablehnen)
+
 ## abreißen
 
 ich werde abgerissen haben, du wirst abgerissen haben, er/sie/es wird abgerissen haben, wir werden abgerissen haben, ihr werdet abgerissen haben, sie werden abgerissen haben  
@@ -127,3 +136,21 @@ ich werde gestanden haben, du wirst gestanden haben, er/sie/es wird gestanden ha
 [en] I will have stood, you will have stood, he/she/it will have stood, we will have stood, you will have stood, they will have stood  
 
 [→ stehen](../vocabulary/Verben.md#stehen)
+
+## verwenden
+
+ich werde verwendet haben, du wirst verwendet haben, er/sie/es wird verwendet haben, wir werden verwendet haben, ihr werdet verwendet haben, sie werden verwendet haben  
+
+[sr] biću koristio, bićeš koristio, biće koristio, bićemo koristili, bićete koristili, biće koristili  
+[en] I will have used, you will have used, he/she/it will have used, we will have used, you will have used, they will have used  
+
+[→ verwenden](../vocabulary/Verben.md#verwenden)
+
+## zurückkehren
+
+ich werde zurückgekehrt sein, du wirst zurückgekehrt sein, er/sie/es wird zurückgekehrt sein, wir werden zurückgekehrt sein, ihr werdet zurückgekehrt sein, sie werden zurückgekehrt sein  
+
+[sr] biću se vratio, bićeš se vratio, biće se vratio, bićemo se vratili, bićete se vratili, biće se vratili  
+[en] I will have returned, you will have returned, he/she/it will have returned, we will have returned, you will have returned, they will have returned  
+
+[→ zurückkehren](../vocabulary/Verben.md#zurückkehren)

@@ -1,3 +1,4 @@
 {
-  "cursor.agent.attribution.enabled": false
+  "cursor.agent.attribution.enabled": false,
+  "cursor.agent.attribution.addCoAuthorToCommits": false
 }

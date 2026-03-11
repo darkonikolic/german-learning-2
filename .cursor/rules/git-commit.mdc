@@ -1,23 +1,34 @@
 ---
-description: Git – agent never pushes; trailer = only soft reset; Cursor Attribution OFF
-globs: .cursor/AGENTS.md
-alwaysApply: false
+description: Git – commit only after approval; push only if log clean; trailer = soft reset only
+alwaysApply: true
 ---
 
-# Git Commit
+# Git Commit – MANDATORY FLOW
 
-Agent may run `git commit -m "..."` after user approves message. **To avoid trailers:** Cursor Settings → Agent → Attribution → OFF.
+**NEVER run `git commit` without following this flow:**
 
-# Push
+1. Stage files (`git add`)
+2. **Propose** commit message to user
+3. **STOP. Output:** "Is the message OK? (da/ok/odobreno to approve)"
+4. **Wait for user reply.** Only if user says da, ok, odobreno, or equivalent → run `git commit -m "..."`
 
-Agent runs `git push` **only when user requests** AND **log has no trailer**.
+**FORBIDDEN:** Running `git commit` in the same turn as proposing the message. Approval must come in a separate user message.
 
-Before push: agent MUST run `git log -3 --format=%B`. If trailer exists → push FORBIDDEN, only soft reset allowed.
+**Attribution:** Agent MUST ensure attribution OFF before any commit. Modify: `.vscode/settings.json` (workspace) and `~/Library/Application Support/Cursor/User/settings.json` (macOS user) — add `"cursor.agent.attribution.enabled": false`, `"cursor.agent.attribution.addCoAuthorToCommits": false`. User never configures this; agent does it.
+
+# Push – MANDATORY CHECK
+
+**NEVER run `git push` without:**
+
+1. User explicitly requested push
+2. **First** run `git log -3 --format=%B`
+3. If ANY trailer in output (Made-with, Co-authored-by, Signed-off-by) → **push FORBIDDEN**. Notify user. Only `git reset --soft HEAD~1` allowed.
+4. Only if log is clean → run `git push`
 
 # RED FLAG – Trailer in Log
 
 - Agent: only `git reset --soft HEAD~1` allowed, push FORBIDDEN
-- User: Cursor Settings → Agent → Attribution → OFF, recommit
+- Agent: ensure attribution OFF in settings (workspace + user), then user recommits
 - Then: agent can push (if user requests and log is clean)
 
 ## FORBIDDEN

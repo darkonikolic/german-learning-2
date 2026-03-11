@@ -1,7 +1,5 @@
 # Cursor Setup – Commit bez trailera
 
-Da agent može da radi commit bez "Made-with: Cursor" trailera:
-
-**Cursor Settings → Agent → Attribution → OFF**
+Agent automatski postavlja Attribution OFF u settings (workspace `.vscode/settings.json` i user `settings.json`). User ne konfiguriše ništa ručno.
 
 Bez ovoga, svaki commit može dobiti trailer. Agent ne sme da pushuje dok postoji trailer u logu.

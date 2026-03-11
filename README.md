@@ -2,7 +2,7 @@
 
 Project for learning German. Lekcije (evidencija časova), Readle (vežbe), praktika, vocabulary extraction, grammar.
 
-**Cursor:** Za commit bez trailera → Settings → Agent → Attribution → OFF. Vidi `.cursor/SETUP.md`.
+**Cursor:** Agent automatski postavlja Attribution OFF. Vidi `.cursor/SETUP.md`.
 
 ## Structure
 
@@ -14,6 +14,7 @@ german-learning-02/
 │   └── B1/
 ├── readle/                   # Readle vežbe (format: Y-m-d_H:i_title.md)
 ├── praktika/                 # Beleške iz praktičnih sesija (Y-m-d.md)
+├── standup/                  # Dnevni izveštaji na 3 jezika (Y-m-d.md)
 ├── themen/                   # Teme po grupama (grammatik, alltag, arbeit...)
 ├── vremena/                  # Verb tenses (B1)
 │   ├── Präsens.md
@@ -61,6 +62,7 @@ User writes content below. New files are created empty (title + date only).
 | Kurs (predavanja) | lekcije/ | Belške, Prevodi, Gramatika, Reči, Izvor |
 | Readle (vežbe) | readle/ | Y-m-d_H:i_title.md |
 | Praktika (razgovor, vežbanje) | praktika/ | Y-m-d.md – beleške po sesiji |
+| Standup (dnevni izveštaji) | standup/ | Y-m-d.md – [DE] [SR] [EN] po pasusu |
 
 ## How to Use (Texts)
 

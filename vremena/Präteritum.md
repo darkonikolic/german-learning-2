@@ -2,6 +2,15 @@
 
 Prošlo vreme (pisanje, pripovedanje). Svi glagoli iz rečnika, sortirani ABC.
 
+## ablehnen
+
+ich lehnte ab, du lehntest ab, er/sie/es lehnte ab, wir lehnten ab, ihr lehntet ab, sie lehnten ab  
+
+[sr] odbio sam, odbio si, odbio je, odbili smo, odbili ste, odbili su  
+[en] I rejected, you rejected, he/she/it rejected, we rejected, you rejected, they rejected  
+
+[→ ablehnen](../vocabulary/Verben.md#ablehnen)
+
 ## abreißen
 
 ich riss ab, du rissest ab, er/sie/es riss ab, wir rissen ab, ihr risst ab, sie rissen ab  
@@ -127,3 +136,21 @@ ich stand, du standest, er/sie/es stand, wir standen, ihr standet, sie standen
 [en] I stood, you stood, he/she/it stood, we stood, you stood, they stood  
 
 [→ stehen](../vocabulary/Verben.md#stehen)
+
+## verwenden
+
+ich verwendete, du verwendetest, er/sie/es verwendete, wir verwendeten, ihr verwendetet, sie verwendeten  
+
+[sr] koristio sam, koristio si, koristio je, koristili smo, koristili ste, koristili su  
+[en] I used, you used, he/she/it used, we used, you used, they used  
+
+[→ verwenden](../vocabulary/Verben.md#verwenden)
+
+## zurückkehren
+
+ich kehrte zurück, du kehrtest zurück, er/sie/es kehrte zurück, wir kehrten zurück, ihr kehrtet zurück, sie kehrten zurück  
+
+[sr] vratio sam se, vratio si se, vratio se je, vratili smo se, vratili ste se, vratili su se  
+[en] I returned, you returned, he/she/it returned, we returned, you returned, they returned  
+
+[→ zurückkehren](../vocabulary/Verben.md#zurückkehren)

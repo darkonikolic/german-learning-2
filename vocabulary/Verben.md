@@ -2,6 +2,13 @@
 
 Infinitive only. Verb tenses (Präteritum, Perfekt, etc.) are in `vremena/`. Each verb links to its forms in each tense.
 
+## ablehnen
+
+[sr] odbiti, odbaciti
+[en] to reject, to decline
+
+[Präsens](../vremena/Präsens.md#ablehnen) · [Perfekt](../vremena/Perfekt.md#ablehnen) · [Präteritum](../vremena/Präteritum.md#ablehnen) · [Plusquamperfekt](../vremena/Plusquamperfekt.md#ablehnen) · [Futur I](../vremena/Futur-I.md#ablehnen) · [Futur II](../vremena/Futur-II.md#ablehnen)
+
 ## abreißen
 
 [sr] srušiti, demolirati
@@ -111,3 +118,17 @@ Infinitive only. Verb tenses (Präteritum, Perfekt, etc.) are in `vremena/`. Eac
 
 [Präsens](../vremena/Präsens.md#stehen) · [Perfekt](../vremena/Perfekt.md#stehen) · [Präteritum](../vremena/Präteritum.md#stehen) · [Plusquamperfekt](../vremena/Plusquamperfekt.md#stehen) · [Futur I](../vremena/Futur-I.md#stehen) · [Futur II](../vremena/Futur-II.md#stehen)  
 [Starke Verben](../themen/grammatik/starke-verben.md#stehen)
+
+## verwenden
+
+[sr] koristiti, upotrebljavati
+[en] to use, to apply
+
+[Präsens](../vremena/Präsens.md#verwenden) · [Perfekt](../vremena/Perfekt.md#verwenden) · [Präteritum](../vremena/Präteritum.md#verwenden) · [Plusquamperfekt](../vremena/Plusquamperfekt.md#verwenden) · [Futur I](../vremena/Futur-I.md#verwenden) · [Futur II](../vremena/Futur-II.md#verwenden)
+
+## zurückkehren
+
+[sr] vratiti se
+[en] to return
+
+[Präsens](../vremena/Präsens.md#zurückkehren) · [Perfekt](../vremena/Perfekt.md#zurückkehren) · [Präteritum](../vremena/Präteritum.md#zurückkehren) · [Plusquamperfekt](../vremena/Plusquamperfekt.md#zurückkehren) · [Futur I](../vremena/Futur-I.md#zurückkehren) · [Futur II](../vremena/Futur-II.md#zurückkehren)

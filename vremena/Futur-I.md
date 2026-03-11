@@ -2,6 +2,15 @@
 
 Buduće vreme. Svi glagoli iz rečnika, sortirani ABC.
 
+## ablehnen
+
+ich werde ablehnen, du wirst ablehnen, er/sie/es wird ablehnen, wir werden ablehnen, ihr werdet ablehnen, sie werden ablehnen  
+
+[sr] odbiću, odbićeš, odbiće, odbićemo, odbićete, odbiće  
+[en] I will reject, you will reject, he/she/it will reject, we will reject, you will reject, they will reject  
+
+[→ ablehnen](../vocabulary/Verben.md#ablehnen)
+
 ## abreißen
 
 ich werde abreißen, du wirst abreißen, er/sie/es wird abreißen, wir werden abreißen, ihr werdet abreißen, sie werden abreißen  
@@ -127,3 +136,21 @@ ich werde stehen, du wirst stehen, er/sie/es wird stehen, wir werden stehen, ihr
 [en] I will stand, you will stand, he/she/it will stand, we will stand, you will stand, they will stand  
 
 [→ stehen](../vocabulary/Verben.md#stehen)
+
+## verwenden
+
+ich werde verwenden, du wirst verwenden, er/sie/es wird verwenden, wir werden verwenden, ihr werdet verwenden, sie werden verwenden  
+
+[sr] koristiću, koristićeš, koristiće, koristićemo, koristićete, koristiće  
+[en] I will use, you will use, he/she/it will use, we will use, you will use, they will use  
+
+[→ verwenden](../vocabulary/Verben.md#verwenden)
+
+## zurückkehren
+
+ich werde zurückkehren, du wirst zurückkehren, er/sie/es wird zurückkehren, wir werden zurückkehren, ihr werdet zurückkehren, sie werden zurückkehren  
+
+[sr] vratiću se, vratićeš se, vratiće se, vratićemo se, vratićete se, vratiće se  
+[en] I will return, you will return, he/she/it will return, we will return, you will return, they will return  
+
+[→ zurückkehren](../vocabulary/Verben.md#zurückkehren)

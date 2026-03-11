@@ -61,6 +61,11 @@
 
 [Kunst](../themen/gesellschaft/kunst.md#die-kunst)
 
+## die Krankschreibung
+
+[sr] bolovanje
+[en] sick leave
+
 ## der Kunstpark
 
 [sr] umetnički park
@@ -111,6 +116,11 @@
 [sr] zaštita
 [en] protection
 
+## der Server
+
+[sr] server
+[en] server
+
 ## der Soldat
 
 [sr] vojnik
@@ -129,6 +139,11 @@
 
 [sr] dan
 [en] day
+
+## die Verbindung
+
+[sr] konekcija, veza
+[en] connection
 
 ## die Wand
 

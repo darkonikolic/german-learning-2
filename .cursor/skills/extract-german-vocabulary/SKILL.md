@@ -16,7 +16,7 @@ When the user provides a German text or points to `readle/`, extract vocabulary 
 3. **Classify by type** – Substantiv, Verb, Adjektiv, Adverb, Präposition, or Andere
 4. **Filter for B1** – focus on B1-relevant vocabulary (everyday, work, health, travel, education, society)
 5. **Write to files** – append to existing `vocabulary/[Type].md` file (no subfolders)
-6. **Add consolidated text** – at end of source text file, add `## {title}` + full German paragraph (all [DE] lines as one block)
+6. **Add consolidated text** – at end of source text file, add `## {title}` + full German paragraph (all [DE] lines as one block). **Izuzetak:** ako je izvor u `standup/`, ne dodavati ništa u taj fajl.
 
 ## File Mapping
 

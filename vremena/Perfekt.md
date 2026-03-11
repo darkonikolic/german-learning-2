@@ -2,6 +2,15 @@
 
 Prošlo vreme (govorni jezik). Svi glagoli iz rečnika, sortirani ABC.
 
+## ablehnen
+
+ich habe abgelehnt, du hast abgelehnt, er/sie/es hat abgelehnt, wir haben abgelehnt, ihr habt abgelehnt, sie haben abgelehnt  
+
+[sr] odbio sam, odbio si, odbio je, odbili smo, odbili ste, odbili su  
+[en] I have rejected, you have rejected, he/she/it has rejected, we have rejected, you have rejected, they have rejected  
+
+[→ ablehnen](../vocabulary/Verben.md#ablehnen)
+
 ## abreißen
 
 ich habe abgerissen, du hast abgerissen, er/sie/es hat abgerissen, wir haben abgerissen, ihr habt abgerissen, sie haben abgerissen  
@@ -127,3 +136,21 @@ ich habe gestanden, du hast gestanden, er/sie/es hat gestanden, wir haben gestan
 [en] I have stood, you have stood, he/she/it has stood, we have stood, you have stood, they have stood  
 
 [→ stehen](../vocabulary/Verben.md#stehen)
+
+## verwenden
+
+ich habe verwendet, du hast verwendet, er/sie/es hat verwendet, wir haben verwendet, ihr habt verwendet, sie haben verwendet  
+
+[sr] koristio sam, koristio si, koristio je, koristili smo, koristili ste, koristili su  
+[en] I have used, you have used, he/she/it has used, we have used, you have used, they have used  
+
+[→ verwenden](../vocabulary/Verben.md#verwenden)
+
+## zurückkehren
+
+ich bin zurückgekehrt, du bist zurückgekehrt, er/sie/es ist zurückgekehrt, wir sind zurückgekehrt, ihr seid zurückgekehrt, sie sind zurückgekehrt  
+
+[sr] vratio sam se, vratio si se, vratio se je, vratili smo se, vratili ste se, vratili su se  
+[en] I have returned, you have returned, he/she/it has returned, we have returned, you have returned, they have returned  
+
+[→ zurückkehren](../vocabulary/Verben.md#zurückkehren)

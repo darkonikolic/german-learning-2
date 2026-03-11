@@ -2,6 +2,15 @@
 
 Prošlo vreme pre prošlog. Svi glagoli iz rečnika, sortirani ABC.
 
+## ablehnen
+
+ich hatte abgelehnt, du hattest abgelehnt, er/sie/es hatte abgelehnt, wir hatten abgelehnt, ihr hattet abgelehnt, sie hatten abgelehnt  
+
+[sr] bio sam odbio, bio si odbio, bio je odbio, bili smo odbili, bili ste odbili, bili su odbili  
+[en] I had rejected, you had rejected, he/she/it had rejected, we had rejected, you had rejected, they had rejected  
+
+[→ ablehnen](../vocabulary/Verben.md#ablehnen)
+
 ## abreißen
 
 ich hatte abgerissen, du hattest abgerissen, er/sie/es hatte abgerissen, wir hatten abgerissen, ihr hattet abgerissen, sie hatten abgerissen  
@@ -127,3 +136,21 @@ ich hatte gestanden, du hattest gestanden, er/sie/es hatte gestanden, wir hatten
 [en] I had stood, you had stood, he/she/it had stood, we had stood, you had stood, they had stood  
 
 [→ stehen](../vocabulary/Verben.md#stehen)
+
+## verwenden
+
+ich hatte verwendet, du hattest verwendet, er/sie/es hatte verwendet, wir hatten verwendet, ihr hattet verwendet, sie hatten verwendet  
+
+[sr] bio sam koristio, bio si koristio, bio je koristio, bili smo koristili, bili ste koristili, bili su koristili  
+[en] I had used, you had used, he/she/it had used, we had used, you had used, they had used  
+
+[→ verwenden](../vocabulary/Verben.md#verwenden)
+
+## zurückkehren
+
+ich war zurückgekehrt, du warst zurückgekehrt, er/sie/es war zurückgekehrt, wir waren zurückgekehrt, ihr wart zurückgekehrt, sie waren zurückgekehrt  
+
+[sr] bio sam se vratio, bio si se vratio, bio je se vratio, bili smo se vratili, bili ste se vratili, bili su se vratili  
+[en] I had returned, you had returned, he/she/it had returned, we had returned, you had returned, they had returned  
+
+[→ zurückkehren](../vocabulary/Verben.md#zurückkehren)

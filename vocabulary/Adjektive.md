@@ -26,6 +26,11 @@
 [sr] bivši
 [en] former
 
+## einwandfrei
+
+[sr] besprekoran, savršen
+[en] flawless, perfect
+
 ## farbenfroh
 
 [sr] živobojan, šaren
@@ -49,3 +54,8 @@
 
 [sr] nov
 [en] new
+
+## unklar
+
+[sr] nejasan
+[en] unclear
