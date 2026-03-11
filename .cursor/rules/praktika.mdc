@@ -1,0 +1,32 @@
+---
+description: Praktika – beleške iz praktičnih sesija (razgovor, vežbanje)
+globs: praktika/**/*.md
+alwaysApply: false
+---
+
+# Praktika – Beleške iz sesija
+
+## Struktura
+
+- `praktika/` – beleške po sesiji
+- Format imena: `Y-m-d.md` (npr. `2025-03-11.md`)
+
+## Format
+
+```markdown
+# Praktika – [datum]
+
+## Šta sam radio
+_(kratak opis – šta, sa kim, koliko)_
+
+## Belške
+_(fraze, greške, napomene, nove rečenice)_
+
+## Prevodi
+_(agent dodaje [DE] [SR] [EN] posle ispravke)_
+```
+
+## Workflow
+
+1. Piši beleške tokom ili posle praktike
+2. "Ispravi i izvuci iz praktike X" – agent ispravlja gramatiku inline, dodaje prevode, izvlači reči u vocabulary/

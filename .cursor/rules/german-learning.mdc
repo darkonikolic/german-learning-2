@@ -1,6 +1,6 @@
 ---
 description: German learning rules – extracting B1 words from texts
-globs: texts/**/*.md, vocabulary/*.md, lekcije/**/*.md
+globs: texts/**/*.md, vocabulary/*.md, lekcije/**/*.md, praktika/**/*.md
 alwaysApply: false
 ---
 

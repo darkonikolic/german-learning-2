@@ -6,11 +6,12 @@ Project for learning German. Lekcije (evidencija časova), texts, vocabulary ext
 
 ```
 german-learning-02/
-├── lekcije/                  # Evidencija časova (jedan fajl po lekciji)
+├── lekcije/                  # Evidencija časova (kurs – jedan fajl po lekciji)
 │   ├── A1/
 │   ├── A2/
 │   └── B1/
-├── texts/                    # Your texts (format: Y-m-d_H:i_title.md)
+├── texts/                    # Readle vežbe, tekstovi (format: Y-m-d_H:i_title.md)
+├── praktika/                 # Beleške iz praktičnih sesija (Y-m-d.md)
 ├── themen/                   # Teme po grupama (grammatik, alltag, arbeit...)
 ├── vremena/                  # Verb tenses (B1)
 │   ├── Präsens.md
@@ -50,6 +51,14 @@ User writes content below. New files are created empty (title + date only).
 1. **Piši belške** u `lekcije/A1/1-1.md` tokom časa
 2. **Kaži AI**: "Ispravi i izvuci reči i gramatiku iz lekcije 1-1" ili "iz A1/1-1"
 3. AI ispravlja gramatiku inline (gde god pišeš), dodaje prevode u Prevodi [DE] [SR] [EN], izvlači reči u `vocabulary/`, beleži gramatiku
+
+## Organizacija
+
+| Aktivnost | Folder | Format |
+|-----------|--------|--------|
+| Kurs (predavanja) | lekcije/ | Belške, Prevodi, Gramatika, Reči, Izvor |
+| Readle (vežbe) | texts/ | Y-m-d_H:i_title.md |
+| Praktika (razgovor, vežbanje) | praktika/ | Y-m-d.md – beleške po sesiji |
 
 ## How to Use (Texts)
 
