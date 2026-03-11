@@ -5,7 +5,7 @@
 When working in this project, the agent helps with **learning German (A1→B1)**. Main workflows:
 
 1. **Lekcije** – kurs, beleške u `lekcije/A1/1-1.md`, then: "Ispravi i izvuci"
-2. **Texts** – Readle vežbe, user writes in `texts/`, agent extracts words to `vocabulary/`
+2. **Readle** – vežbe, user writes in `readle/`, agent extracts words to `vocabulary/`
 3. **Praktika** – beleške iz praktičnih sesija u `praktika/Y-m-d.md`, format: Šta sam radio, Belške, Prevodi
 4. **Agent** – corrects grammar, adds [DE] [SR] [EN], extracts words and grammar
 
@@ -15,7 +15,7 @@ When working in this project, the agent helps with **learning German (A1→B1)**
 
 ## Rules
 
-- **german-learning**: Applies when editing `texts/**/*.md`, `vocabulary/*.md`, `lekcije/**/*.md`. Defines word-type mapping, file format, B1 scope.
+- **german-learning**: Applies when editing `readle/**/*.md`, `vocabulary/*.md`, `lekcije/**/*.md`. Defines word-type mapping, file format, B1 scope.
 - **lekcije**: Applies when editing `lekcije/**/*.md`. Lesson workflow: belške → ispravka → izvlačenje reči i gramatike.
 - **praktika**: Applies when editing `praktika/**/*.md`. Practice session notes: Šta sam radio, Belške, Prevodi.
 - **extend-logic**: Always applies. When user requests something beyond current workflow, analyze and propose modifications to `.cursor/` (rules, skills, AGENTS.md) before implementing.
@@ -24,12 +24,12 @@ When working in this project, the agent helps with **learning German (A1→B1)**
 
 | Request | Action |
 |---------|--------|
-| "Create new text" / "Kreiraj tekst" | Create empty file in texts/ with format `Y-m-d_H:i_title.md` – only `# Title` and date (Y-m-d), no other content |
+| "Create new text" / "Kreiraj tekst" | Create empty file in readle/ with format `Y-m-d_H:i_title.md` – only `# Title` and date (Y-m-d), no other content |
 | "Nova lekcija" / "Kreiraj lekciju A1/1-2" | Create lekcije/A1/1-2.md with template (Belške, Prevodi, Gramatika, Reči) |
 | "Nova praktika" / "Kreiraj praktika za danas" | Create praktika/Y-m-d.md with template (Šta sam radio, Belške, Prevodi) |
 | "Extract words from text X" | Run extract-german-vocabulary on specified text |
 | New verb added to Verben.md | Also add to all vremena/*.md with conjugation, [sr]/[en] translation, link to infinitive |
-| "Extract B1 words from all texts" | Process all files in texts/ |
+| "Extract B1 words from all texts" | Process all files in readle/ |
 | "Add words from this text" | Same as above – extract and merge into vocabulary |
 | "Correct grammar" / "Korrigiere den Text" | Correct grammar in the text and list what was changed |
 | "Add translation" / "Dodaj prevod" | Add [DE] [SR] [EN] format per line, empty line between blocks |

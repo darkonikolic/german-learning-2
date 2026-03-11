@@ -1,6 +1,6 @@
 ---
 description: German learning rules – extracting B1 words from texts
-globs: texts/**/*.md, vocabulary/*.md, lekcije/**/*.md, praktika/**/*.md
+globs: readle/**/*.md, vocabulary/*.md, lekcije/**/*.md, praktika/**/*.md
 alwaysApply: false
 ---
 
@@ -8,15 +8,15 @@ alwaysApply: false
 
 ## Context
 
-Project is for learning German at B1 level. User writes texts in `texts/`, AI extracts words and distributes them to `vocabulary/` by type.
+Project is for learning German at B1 level. User writes texts in `readle/`, AI extracts words and distributes them to `vocabulary/` by type.
 
 ## Text File Naming Format
 
-New texts in `texts/` use format: **`Y-m-d_H:i_title.md`**
+New texts in `readle/` use format: **`Y-m-d_H:i_title.md`**
 
 Example: `2025-03-10_14:30_mein-tag.md` (date_time_title)
 
-## Text Content Format in texts/
+## Text Content Format in readle/
 
 When user says "create new text" and gives a title, create **empty file** with only:
 
@@ -28,9 +28,9 @@ When user says "create new text" and gives a title, create **empty file** with o
 
 No additional content – user writes the text themselves.
 
-All `.md` files in `texts/` must follow this format (title + date).
+All `.md` files in `readle/` must follow this format (title + date).
 
-## Translation Format in texts/
+## Translation Format in readle/
 
 When adding translations to a text, use this format per sentence:
 

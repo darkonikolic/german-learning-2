@@ -1,6 +1,6 @@
 # German Learning (A1→B1)
 
-Project for learning German. Lekcije (evidencija časova), texts, vocabulary extraction, grammar.
+Project for learning German. Lekcije (evidencija časova), Readle (vežbe), praktika, vocabulary extraction, grammar.
 
 **Cursor:** Za commit bez trailera → Settings → Agent → Attribution → OFF. Vidi `.cursor/SETUP.md`.
 
@@ -12,7 +12,7 @@ german-learning-02/
 │   ├── A1/
 │   ├── A2/
 │   └── B1/
-├── texts/                    # Readle vežbe, tekstovi (format: Y-m-d_H:i_title.md)
+├── readle/                   # Readle vežbe (format: Y-m-d_H:i_title.md)
 ├── praktika/                 # Beleške iz praktičnih sesija (Y-m-d.md)
 ├── themen/                   # Teme po grupama (grammatik, alltag, arbeit...)
 ├── vremena/                  # Verb tenses (B1)
@@ -36,9 +36,9 @@ german-learning-02/
 └── README.md
 ```
 
-## Text Format in texts/
+## Text Format in readle/
 
-Each file in `texts/` has format:
+Each file in `readle/` has format:
 
 ```markdown
 # [Title]
@@ -59,13 +59,13 @@ User writes content below. New files are created empty (title + date only).
 | Aktivnost | Folder | Format |
 |-----------|--------|--------|
 | Kurs (predavanja) | lekcije/ | Belške, Prevodi, Gramatika, Reči, Izvor |
-| Readle (vežbe) | texts/ | Y-m-d_H:i_title.md |
+| Readle (vežbe) | readle/ | Y-m-d_H:i_title.md |
 | Praktika (razgovor, vežbanje) | praktika/ | Y-m-d.md – beleške po sesiji |
 
 ## How to Use (Texts)
 
-1. **Write a text** in `texts/` – file format `Y-m-d_H:i_title.md` (e.g. `texts/2025-03-10_14:30_mein-tag.md`)
-2. **Request extraction** – tell AI: "Extract B1 words from text X" or "Extract B1 vocabulary from texts/"
+1. **Write a text** in `readle/` – file format `Y-m-d_H:i_title.md` (e.g. `readle/2025-03-10_14:30_mein-tag.md`)
+2. **Request extraction** – tell AI: "Extract B1 words from text X" or "Extract B1 vocabulary from readle/"
 3. AI will extract B1-level words and distribute them to the appropriate files in `vocabulary/`
 
 ## Vocabulary File Format

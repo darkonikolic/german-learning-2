@@ -1,17 +1,17 @@
 ---
 name: extract-german-vocabulary
-description: Extracts B1-level German vocabulary from user-written texts and distributes words into vocabulary files by type (nouns, verbs, adjectives, etc.). Use when the user asks to extract words from a text, pull vocabulary from texts/, or process German texts for learning.
+description: Extracts B1-level German vocabulary from user-written texts and distributes words into vocabulary files by type (nouns, verbs, adjectives, etc.). Use when the user asks to extract words from a text, pull vocabulary from readle/, or process German texts for learning.
 ---
 
 # Extract German B1 Vocabulary
 
 ## Purpose
 
-When the user provides a German text or points to `texts/`, extract vocabulary appropriate for B1 level and save each word to the correct file in `vocabulary/` by word type.
+When the user provides a German text or points to `readle/`, extract vocabulary appropriate for B1 level and save each word to the correct file in `vocabulary/` by word type.
 
 ## Workflow
 
-1. **Read the text** – from user message or from `texts/*.md`
+1. **Read the text** – from user message or from `readle/*.md`
 2. **Identify words** – all content words (skip pure A1 basics like "ich", "und", "ist" unless contextually important)
 3. **Classify by type** – Substantiv, Verb, Adjektiv, Adverb, Präposition, or Andere
 4. **Filter for B1** – focus on B1-relevant vocabulary (everyday, work, health, travel, education, society)
