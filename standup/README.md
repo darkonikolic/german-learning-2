@@ -28,3 +28,13 @@ Dnevni izveštaji. Jednostavni, kratki. Format: jedan pasus = [DE] [SR] [EN].
 ```
 
 **Uvek:** tačke sa brojevima (1, 2, 3…). Jedan blok [DE] [SR] [EN] sa istim brojem tačaka.
+
+## Conversations
+
+Opciono: rečenice koje su bile potrebne tokom dana (meetingi, chat, email). **Svaka rečenica mora imati [DE] [SR] [EN].** Format po stavci:
+
+```
+- [DE] {nemački}
+- [SR] {srpski}
+- [EN] {engleski}
+```

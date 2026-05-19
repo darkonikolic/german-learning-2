@@ -17,6 +17,14 @@ Infinitive only. Verb tenses (Präteritum, Perfekt, etc.) are in `vremena/`. Eac
 [Präsens](../vremena/Präsens.md#abreißen) · [Perfekt](../vremena/Perfekt.md#abreißen) · [Präteritum](../vremena/Präteritum.md#abreißen) · [Plusquamperfekt](../vremena/Plusquamperfekt.md#abreißen) · [Futur I](../vremena/Futur-I.md#abreißen) · [Futur II](../vremena/Futur-II.md#abreißen)  
 [Starke Verben](../themen/grammatik/starke-verben.md#abreißen) · [Trennbar](../themen/grammatik/trennbare-verben.md#abreißen) · [Haus & Wohnung](../themen/alltag/haus-wohnung.md#abreißen)
 
+## ankreuzen
+
+[sr] zaokružiti, označiti krstićem (na obrascu)
+[en] to check off, to mark with a cross
+
+[Präsens](../vremena/Präsens.md#ankreuzen) · [Perfekt](../vremena/Perfekt.md#ankreuzen) · [Präteritum](../vremena/Präteritum.md#ankreuzen) · [Plusquamperfekt](../vremena/Plusquamperfekt.md#ankreuzen) · [Futur I](../vremena/Futur-I.md#ankreuzen) · [Futur II](../vremena/Futur-II.md#ankreuzen)  
+[Trennbar](../themen/grammatik/trennbare-verben.md#ankreuzen) · [Schwache Verben](../themen/grammatik/schwache-verben.md#ankreuzen)
+
 ## anziehen
 
 [sr] privući
@@ -24,6 +32,14 @@ Infinitive only. Verb tenses (Präteritum, Perfekt, etc.) are in `vremena/`. Eac
 
 [Präsens](../vremena/Präsens.md#anziehen) · [Perfekt](../vremena/Perfekt.md#anziehen) · [Präteritum](../vremena/Präteritum.md#anziehen) · [Plusquamperfekt](../vremena/Plusquamperfekt.md#anziehen) · [Futur I](../vremena/Futur-I.md#anziehen) · [Futur II](../vremena/Futur-II.md#anziehen)  
 [Starke Verben](../themen/grammatik/starke-verben.md#anziehen) · [Trennbar](../themen/grammatik/trennbare-verben.md#anziehen)
+
+## ausfüllen
+
+[sr] popuniti (obrazac)
+[en] to fill out (a form)
+
+[Präsens](../vremena/Präsens.md#ausfüllen) · [Perfekt](../vremena/Perfekt.md#ausfüllen) · [Präteritum](../vremena/Präteritum.md#ausfüllen) · [Plusquamperfekt](../vremena/Plusquamperfekt.md#ausfüllen) · [Futur I](../vremena/Futur-I.md#ausfüllen) · [Futur II](../vremena/Futur-II.md#ausfüllen)  
+[Trennbar](../themen/grammatik/trennbare-verben.md#ausfüllen) · [Schwache Verben](../themen/grammatik/schwache-verben.md#ausfüllen)
 
 ## bedecken
 
@@ -47,6 +63,21 @@ Infinitive only. Verb tenses (Präteritum, Perfekt, etc.) are in `vremena/`. Eac
 [en] to be called, to be named
 
 [Präsens](../vremena/Präsens.md#heißen) · [Perfekt](../vremena/Perfekt.md#heißen) · [Präteritum](../vremena/Präteritum.md#heißen) · [Plusquamperfekt](../vremena/Plusquamperfekt.md#heißen) · [Futur I](../vremena/Futur-I.md#heißen) · [Futur II](../vremena/Futur-II.md#heißen)
+
+## kommen
+
+[sr] doći, dolaziti
+[en] to come
+
+[Präsens](../vremena/Präsens.md#kommen) · [Perfekt](../vremena/Perfekt.md#kommen) · [Präteritum](../vremena/Präteritum.md#kommen) · [Plusquamperfekt](../vremena/Plusquamperfekt.md#kommen) · [Futur I](../vremena/Futur-I.md#kommen) · [Futur II](../vremena/Futur-II.md#kommen)
+
+## lernen
+
+[sr] učiti, naučiti
+[en] to learn
+
+[Präsens](../vremena/Präsens.md#lernen) · [Perfekt](../vremena/Perfekt.md#lernen) · [Präteritum](../vremena/Präteritum.md#lernen) · [Plusquamperfekt](../vremena/Plusquamperfekt.md#lernen) · [Futur I](../vremena/Futur-I.md#lernen) · [Futur II](../vremena/Futur-II.md#lernen)  
+[Schwache Verben](../themen/grammatik/schwache-verben.md#lernen)
 
 ## helfen
 
@@ -95,6 +126,14 @@ Infinitive only. Verb tenses (Präteritum, Perfekt, etc.) are in `vremena/`. Eac
 
 [Präsens](../vremena/Präsens.md#sein) · [Perfekt](../vremena/Perfekt.md#sein) · [Präteritum](../vremena/Präteritum.md#sein) · [Plusquamperfekt](../vremena/Plusquamperfekt.md#sein) · [Futur I](../vremena/Futur-I.md#sein) · [Futur II](../vremena/Futur-II.md#sein)
 
+## sich anmelden
+
+[sr] prijaviti se, registrovati se
+[en] to register, to sign up
+
+[Präsens](../vremena/Präsens.md#sich-anmelden) · [Perfekt](../vremena/Perfekt.md#sich-anmelden) · [Präteritum](../vremena/Präteritum.md#sich-anmelden) · [Plusquamperfekt](../vremena/Plusquamperfekt.md#sich-anmelden) · [Futur I](../vremena/Futur-I.md#sich-anmelden) · [Futur II](../vremena/Futur-II.md#sich-anmelden)  
+[Trennbar](../themen/grammatik/trennbare-verben.md#sich-anmelden) · [Reflexiv](../themen/grammatik/reflexive-verben.md#sich-anmelden)
+
 ## sich anfühlen
 
 [sr] osećati se
@@ -102,6 +141,13 @@ Infinitive only. Verb tenses (Präteritum, Perfekt, etc.) are in `vremena/`. Eac
 
 [Präsens](../vremena/Präsens.md#sich-anfühlen) · [Perfekt](../vremena/Perfekt.md#sich-anfühlen) · [Präteritum](../vremena/Präteritum.md#sich-anfühlen) · [Plusquamperfekt](../vremena/Plusquamperfekt.md#sich-anfühlen) · [Futur I](../vremena/Futur-I.md#sich-anfühlen) · [Futur II](../vremena/Futur-II.md#sich-anfühlen)  
 [Trennbar](../themen/grammatik/trennbare-verben.md#sich-anfühlen) · [Reflexiv](../themen/grammatik/reflexive-verben.md#sich-anfühlen)
+
+## sprechen
+
+[sr] govoriti
+[en] to speak
+
+[Präsens](../vremena/Präsens.md#sprechen) · [Perfekt](../vremena/Perfekt.md#sprechen) · [Präteritum](../vremena/Präteritum.md#sprechen) · [Plusquamperfekt](../vremena/Plusquamperfekt.md#sprechen) · [Futur I](../vremena/Futur-I.md#sprechen) · [Futur II](../vremena/Futur-II.md#sprechen)
 
 ## starten
 
@@ -118,6 +164,14 @@ Infinitive only. Verb tenses (Präteritum, Perfekt, etc.) are in `vremena/`. Eac
 
 [Präsens](../vremena/Präsens.md#stehen) · [Perfekt](../vremena/Perfekt.md#stehen) · [Präteritum](../vremena/Präteritum.md#stehen) · [Plusquamperfekt](../vremena/Plusquamperfekt.md#stehen) · [Futur I](../vremena/Futur-I.md#stehen) · [Futur II](../vremena/Futur-II.md#stehen)  
 [Starke Verben](../themen/grammatik/starke-verben.md#stehen)
+
+## unterstreichen
+
+[sr] podvući
+[en] to underline
+
+[Präsens](../vremena/Präsens.md#unterstreichen) · [Perfekt](../vremena/Perfekt.md#unterstreichen) · [Präteritum](../vremena/Präteritum.md#unterstreichen) · [Plusquamperfekt](../vremena/Plusquamperfekt.md#unterstreichen) · [Futur I](../vremena/Futur-I.md#unterstreichen) · [Futur II](../vremena/Futur-II.md#unterstreichen)  
+[Starke Verben](../themen/grammatik/starke-verben.md#unterstreichen)
 
 ## verwenden
 

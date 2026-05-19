@@ -20,6 +20,15 @@ ich riss ab, du rissest ab, er/sie/es riss ab, wir rissen ab, ihr risst ab, sie 
 
 [→ abreißen](../vocabulary/Verben.md#abreißen)
 
+## ankreuzen
+
+ich kreuzte an, du kreuztest an, er/sie/es kreuzte an, wir kreuzten an, ihr kreuztet an, sie kreuzten an  
+
+[sr] zaokružio sam, zaokružio si, zaokružio je, zaokružili smo, zaokružili ste, zaokružili su  
+[en] I checked off, you checked off, he/she/it checked off, we checked off, you checked off, they checked off  
+
+[→ ankreuzen](../vocabulary/Verben.md#ankreuzen)
+
 ## anziehen
 
 ich zog an, du zogst an, er/sie/es zog an, wir zogen an, ihr zogt an, sie zogen an  
@@ -28,6 +37,15 @@ ich zog an, du zogst an, er/sie/es zog an, wir zogen an, ihr zogt an, sie zogen 
 [en] I attracted, you attracted, he/she/it attracted, we attracted, you attracted, they attracted  
 
 [→ anziehen](../vocabulary/Verben.md#anziehen)
+
+## ausfüllen
+
+ich füllte aus, du fülltest aus, er/sie/es füllte aus, wir füllten aus, ihr fülltet aus, sie füllten aus  
+
+[sr] popunio sam, popunio si, popunio je, popunili smo, popunili ste, popunili su  
+[en] I filled out, you filled out, he/she/it filled out, we filled out, you filled out, they filled out  
+
+[→ ausfüllen](../vocabulary/Verben.md#ausfüllen)
 
 ## bedecken
 
@@ -55,6 +73,24 @@ ich hieß, du hießt, er/sie/es hieß, wir hießen, ihr hießt, sie hießen
 [en] I was called, you were called, he/she/it was called, we were called, you were called, they were called  
 
 [→ heißen](../vocabulary/Verben.md#heißen)
+
+## kommen
+
+ich kam, du kamst, er/sie/es kam, wir kamen, ihr kamt, sie kamen  
+
+[sr] došao sam, došao si, došao je, došli smo, došli ste, došli su  
+[en] I came, you came, he/she/it came, we came, you came, they came  
+
+[→ kommen](../vocabulary/Verben.md#kommen)
+
+## lernen
+
+ich lernte, du lerntest, er/sie/es lernte, wir lernten, ihr lerntet, sie lernten  
+
+[sr] učio sam, učio si, učio je, učili smo, učili ste, učili su  
+[en] I learned, you learned, he/she/it learned, we learned, you learned, they learned  
+
+[→ lernen](../vocabulary/Verben.md#lernen)
 
 ## helfen
 
@@ -110,6 +146,15 @@ ich war, du warst, er/sie/es war, wir waren, ihr wart, sie waren
 
 [→ sein](../vocabulary/Verben.md#sein)
 
+## sich anmelden
+
+ich meldete mich an, du meldetest dich an, er/sie/es meldete sich an, wir meldeten uns an, ihr meldetet euch an, sie meldeten sich an  
+
+[sr] prijavio sam se, prijavio si se, prijavio se, prijavili smo se, prijavili ste se, prijavili su se  
+[en] I registered, you registered, he/she/it registered, we registered, you registered, they registered  
+
+[→ sich anmelden](../vocabulary/Verben.md#sich-anmelden)
+
 ## sich anfühlen
 
 ich fühlte mich an, du fühltest dich an, er/sie/es fühlte sich an, wir fühlten uns an, ihr fühltet euch an, sie fühlten sich an  
@@ -118,6 +163,15 @@ ich fühlte mich an, du fühltest dich an, er/sie/es fühlte sich an, wir fühlt
 [en] I felt, you felt, he/she/it felt, we felt, you felt, they felt  
 
 [→ sich anfühlen](../vocabulary/Verben.md#sich-anfühlen)
+
+## sprechen
+
+ich sprach, du sprachst, er/sie/es sprach, wir sprachen, ihr spracht, sie sprachen  
+
+[sr] govorio sam, govorio si, govorio je, govorili smo, govorili ste, govorili su  
+[en] I spoke, you spoke, he/she/it spoke, we spoke, you spoke, they spoke  
+
+[→ sprechen](../vocabulary/Verben.md#sprechen)
 
 ## starten
 
@@ -136,6 +190,15 @@ ich stand, du standest, er/sie/es stand, wir standen, ihr standet, sie standen
 [en] I stood, you stood, he/she/it stood, we stood, you stood, they stood  
 
 [→ stehen](../vocabulary/Verben.md#stehen)
+
+## unterstreichen
+
+ich unterstrich, du unterstrichst, er/sie/es unterstrich, wir unterstrichen, ihr unterstricht, sie unterstrichen  
+
+[sr] podvukao sam, podvukao si, podvukao je, podvukli smo, podvukli ste, podvukli su  
+[en] I underlined, you underlined, he/she/it underlined, we underlined, you underlined, they underlined  
+
+[→ unterstreichen](../vocabulary/Verben.md#unterstreichen)
 
 ## verwenden
 

@@ -46,7 +46,7 @@ Each vocabulary file. Words sorted alphabetically. Format per word:
 
 ```
 
-- **Substantive**: heading with article – `## der Arbeit`, `## die Kunst`
+- **Substantive**: `##` line = article + singular only (for stable anchors). Next line: `{Artikel + Singular} / {Artikel + Plural}` (e.g. `der Tag / die Tage`). Plural article is usually **die**. No usual plural: `das Internet / —`. Then blank line, then `[sr]` / `[en]`.
 - **Verben**: infinitive only. Each verb gets links to `vremena/` (Präsens, Perfekt, Präteritum, Plusquamperfekt, Futur I, Futur II). **Kada se doda novi glagol u Verben.md, mora se dodati i u sve fajlove u `vremena/`** sa konjugacijom, prevodom i linkom na infinitiv.
 - **Translations**: [sr] Serbian, [en] English
 - **Sort**: alphabetically (ABC)

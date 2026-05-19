@@ -34,3 +34,13 @@ alwaysApply: false
 ```
 
 **Uvek:** tačke sa brojevima (1, 2, 3…). Jednostavno, kratko.
+
+## Conversations
+
+Opciono: `## Conversations` — rečenice koje su bile potrebne tokom dana (meetingi, chat, email). **Svaka rečenica mora imati [DE] [SR] [EN].** Format po stavci:
+
+```
+- [DE] {nemački}
+- [SR] {srpski}
+- [EN] {engleski}
+```

@@ -1,6 +1,28 @@
 # Schwache Verben (Slabi glagoli)
 
-Pravilna konjugacija – bez promene korena.
+Pravilna konjugacija – **koren ostaje isti**, menja se samo nastavak (-e, -st, -t, -en, -t, -en).
+
+Primer: *ich mache, du machst, er macht* – bez promene samoglasnika.
+
+Uporedi sa [Starke Verben](starke-verben.md) – jaki glagoli menjaju samoglasnik u korenu. Za pitanja: [W-Fragen](w-fragen.md).
+
+## ankreuzen
+
+ankreuzen
+
+[sr] zaokružiti, označiti krstićem (na obrascu)
+[en] to check off, to mark with a cross
+
+[→ ankreuzen](../../vocabulary/Verben.md#ankreuzen)
+
+## ausfüllen
+
+ausfüllen
+
+[sr] popuniti (obrazac)
+[en] to fill out (a form)
+
+[→ ausfüllen](../../vocabulary/Verben.md#ausfüllen)
 
 ## bedecken
 
@@ -19,6 +41,15 @@ bemalen
 [en] to paint (walls)
 
 [→ bemalen](../../vocabulary/Verben.md#bemalen)
+
+## lernen
+
+lernen
+
+[sr] učiti, naučiti
+[en] to learn
+
+[→ lernen](../../vocabulary/Verben.md#lernen)
 
 ## machen
 

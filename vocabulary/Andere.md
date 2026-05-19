@@ -10,6 +10,11 @@
 [sr] pre nego što
 [en] before
 
+## bitte {#bitte}
+
+[sr] molim
+[en] please
+
 ## Doch
 
 [sr] ali, ipak

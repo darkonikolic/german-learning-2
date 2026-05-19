@@ -20,6 +20,15 @@ ich hatte abgerissen, du hattest abgerissen, er/sie/es hatte abgerissen, wir hat
 
 [→ abreißen](../vocabulary/Verben.md#abreißen)
 
+## ankreuzen
+
+ich hatte angekreuzt, du hattest angekreuzt, er/sie/es hatte angekreuzt, wir hatten angekreuzt, ihr hattet angekreuzt, sie hatten angekreuzt  
+
+[sr] bio sam zaokružio, bio si zaokružio, bio je zaokružio, bili smo zaokružili, bili ste zaokružili, bili su zaokružili  
+[en] I had checked off, you had checked off, he/she/it had checked off, we had checked off, you had checked off, they had checked off  
+
+[→ ankreuzen](../vocabulary/Verben.md#ankreuzen)
+
 ## anziehen
 
 ich hatte angezogen, du hattest angezogen, er/sie/es hatte angezogen, wir hatten angezogen, ihr hattet angezogen, sie hatten angezogen  
@@ -28,6 +37,15 @@ ich hatte angezogen, du hattest angezogen, er/sie/es hatte angezogen, wir hatten
 [en] I had attracted, you had attracted, he/she/it had attracted, we had attracted, you had attracted, they had attracted  
 
 [→ anziehen](../vocabulary/Verben.md#anziehen)
+
+## ausfüllen
+
+ich hatte ausgefüllt, du hattest ausgefüllt, er/sie/es hatte ausgefüllt, wir hatten ausgefüllt, ihr hattet ausgefüllt, sie hatten ausgefüllt  
+
+[sr] bio sam popunio, bio si popunio, bio je popunio, bili smo popunili, bili ste popunili, bili su popunili  
+[en] I had filled out, you had filled out, he/she/it had filled out, we had filled out, you had filled out, they had filled out  
+
+[→ ausfüllen](../vocabulary/Verben.md#ausfüllen)
 
 ## bedecken
 
@@ -55,6 +73,24 @@ ich hatte geheißen, du hattest geheißen, er/sie/es hatte geheißen, wir hatten
 [en] I had been called, you had been called, he/she/it had been called, we had been called, you had been called, they had been called  
 
 [→ heißen](../vocabulary/Verben.md#heißen)
+
+## kommen
+
+ich war gekommen, du warst gekommen, er/sie/es war gekommen, wir waren gekommen, ihr wart gekommen, sie waren gekommen  
+
+[sr] bio sam došao, bio si došao, bio je došao, bili smo došli, bili ste došli, bili su došli  
+[en] I had come, you had come, he/she/it had come, we had come, you had come, they had come  
+
+[→ kommen](../vocabulary/Verben.md#kommen)
+
+## lernen
+
+ich hatte gelernt, du hattest gelernt, er/sie/es hatte gelernt, wir hatten gelernt, ihr hattet gelernt, sie hatten gelernt  
+
+[sr] bio sam naučio, bio si naučio, bio je naučio, bili smo naučili, bili ste naučili, bili su naučili  
+[en] I had learned, you had learned, he/she/it had learned, we had learned, you had learned, they had learned  
+
+[→ lernen](../vocabulary/Verben.md#lernen)
 
 ## helfen
 
@@ -110,6 +146,15 @@ ich war gewesen, du warst gewesen, er/sie/es war gewesen, wir waren gewesen, ihr
 
 [→ sein](../vocabulary/Verben.md#sein)
 
+## sich anmelden
+
+ich hatte mich angemeldet, du hattest dich angemeldet, er/sie/es hatte sich angemeldet, wir hatten uns angemeldet, ihr hattet euch angemeldet, sie hatten sich angemeldet  
+
+[sr] bio sam se prijavio, bio si se prijavio, bio se prijavio, bili smo se prijavili, bili ste se prijavili, bili su se prijavili  
+[en] I had registered, you had registered, he/she/it had registered, we had registered, you had registered, they had registered  
+
+[→ sich anmelden](../vocabulary/Verben.md#sich-anmelden)
+
 ## sich anfühlen
 
 ich hatte mich angefühlt, du hattest dich angefühlt, er/sie/es hatte sich angefühlt, wir hatten uns angefühlt, ihr hattet euch angefühlt, sie hatten sich angefühlt  
@@ -118,6 +163,15 @@ ich hatte mich angefühlt, du hattest dich angefühlt, er/sie/es hatte sich ange
 [en] I had felt, you had felt, he/she/it had felt, we had felt, you had felt, they had felt  
 
 [→ sich anfühlen](../vocabulary/Verben.md#sich-anfühlen)
+
+## sprechen
+
+ich hatte gesprochen, du hattest gesprochen, er/sie/es hatte gesprochen, wir hatten gesprochen, ihr hattet gesprochen, sie hatten gesprochen  
+
+[sr] bio sam govorio, bio si govorio, bio je govorio, bili smo govorili, bili ste govorili, bili su govorili  
+[en] I had spoken, you had spoken, he/she/it had spoken, we had spoken, you had spoken, they had spoken  
+
+[→ sprechen](../vocabulary/Verben.md#sprechen)
 
 ## starten
 
@@ -136,6 +190,15 @@ ich hatte gestanden, du hattest gestanden, er/sie/es hatte gestanden, wir hatten
 [en] I had stood, you had stood, he/she/it had stood, we had stood, you had stood, they had stood  
 
 [→ stehen](../vocabulary/Verben.md#stehen)
+
+## unterstreichen
+
+ich hatte unterstrichen, du hattest unterstrichen, er/sie/es hatte unterstrichen, wir hatten unterstrichen, ihr hattet unterstrichen, sie hatten unterstrichen  
+
+[sr] bio sam podvukao, bio si podvukao, bio je podvukao, bili smo podvukli, bili ste podvukli, bili su podvukli  
+[en] I had underlined, you had underlined, he/she/it had underlined, we had underlined, you had underlined, they had underlined  
+
+[→ unterstreichen](../vocabulary/Verben.md#unterstreichen)
 
 ## verwenden
 

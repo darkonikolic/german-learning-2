@@ -12,7 +12,7 @@ When working in this project, the agent helps with **learning German (A1→B1)**
 
 ## Skills to Apply
 
-- **extract-german-vocabulary**: Use when the user asks to extract words from a text, pull vocabulary from texts, or process German texts for learning. Extracts B1 vocabulary and distributes to Substantive, Verben, Adjektive, Adverbien, Präpositionen, Andere.
+- **extract-german-vocabulary**: Use when the user asks to extract words from a text, pull vocabulary from texts, or process German texts for learning. Extracts B1 vocabulary and distributes to Substantive, Verben, Adjektive, Adverbien, Präpositionen, Andere. **Substantive**: after `## {article + singular}`, add one line `{article + singular} / {article + plural}` (e.g. `der Tag / die Tage`); use `—` if no usual plural; details in `german-learning` rule and `vocabulary/README.md`.
 
 ## Rules
 
@@ -34,6 +34,7 @@ When working in this project, the agent helps with **learning German (A1→B1)**
 | New verb added to Verben.md | Also add to all vremena/*.md with conjugation, [sr]/[en] translation, link to infinitive |
 | "Extract B1 words from all texts" | Process all files in readle/ |
 | "Add words from this text" | Same as above – extract and merge into vocabulary |
+| Nouns in `vocabulary/Substantive.md` | `##` = article + singular only (stable anchors for themen links). Next line before `[sr]`: `Artikel + Singular / Artikel + Plural` (e.g. `der Tag / die Tage`). No usual plural: `… / —` |
 | "Correct grammar" / "Korrigiere den Text" | Correct grammar in the text and list what was changed |
 | "Add translation" / "Dodaj prevod" | Add [DE] [SR] [EN] format per line, empty line between blocks |
 | After correction, extraction, or adding translations | Always add consolidated German text at end: `## {title}` + full German paragraph |

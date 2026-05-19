@@ -20,6 +20,15 @@ ich habe abgerissen, du hast abgerissen, er/sie/es hat abgerissen, wir haben abg
 
 [→ abreißen](../vocabulary/Verben.md#abreißen)
 
+## ankreuzen
+
+ich habe angekreuzt, du hast angekreuzt, er/sie/es hat angekreuzt, wir haben angekreuzt, ihr habt angekreuzt, sie haben angekreuzt  
+
+[sr] zaokružio sam, zaokružio si, zaokružio je, zaokružili smo, zaokružili ste, zaokružili su  
+[en] I have checked off, you have checked off, he/she/it has checked off, we have checked off, you have checked off, they have checked off  
+
+[→ ankreuzen](../vocabulary/Verben.md#ankreuzen)
+
 ## anziehen
 
 ich habe angezogen, du hast angezogen, er/sie/es hat angezogen, wir haben angezogen, ihr habt angezogen, sie haben angezogen  
@@ -28,6 +37,15 @@ ich habe angezogen, du hast angezogen, er/sie/es hat angezogen, wir haben angezo
 [en] I have attracted, you have attracted, he/she/it has attracted, we have attracted, you have attracted, they have attracted  
 
 [→ anziehen](../vocabulary/Verben.md#anziehen)
+
+## ausfüllen
+
+ich habe ausgefüllt, du hast ausgefüllt, er/sie/es hat ausgefüllt, wir haben ausgefüllt, ihr habt ausgefüllt, sie haben ausgefüllt  
+
+[sr] popunio sam, popunio si, popunio je, popunili smo, popunili ste, popunili su  
+[en] I have filled out, you have filled out, he/she/it has filled out, we have filled out, you have filled out, they have filled out  
+
+[→ ausfüllen](../vocabulary/Verben.md#ausfüllen)
 
 ## bedecken
 
@@ -55,6 +73,24 @@ ich habe geheißen, du hast geheißen, er/sie/es hat geheißen, wir haben gehei�
 [en] I have been called, you have been called, he/she/it has been called, we have been called, you have been called, they have been called  
 
 [→ heißen](../vocabulary/Verben.md#heißen)
+
+## kommen
+
+ich bin gekommen, du bist gekommen, er/sie/es ist gekommen, wir sind gekommen, ihr seid gekommen, sie sind gekommen  
+
+[sr] došao sam, došao si, došao je, došli smo, došli ste, došli su  
+[en] I have come, you have come, he/she/it has come, we have come, you have come, they have come  
+
+[→ kommen](../vocabulary/Verben.md#kommen)
+
+## lernen
+
+ich habe gelernt, du hast gelernt, er/sie/es hat gelernt, wir haben gelernt, ihr habt gelernt, sie haben gelernt  
+
+[sr] naučio sam, naučio si, naučio je, naučili smo, naučili ste, naučili su  
+[en] I have learned, you have learned, he/she/it has learned, we have learned, you have learned, they have learned  
+
+[→ lernen](../vocabulary/Verben.md#lernen)
 
 ## helfen
 
@@ -110,6 +146,15 @@ ich bin gewesen, du bist gewesen, er/sie/es ist gewesen, wir sind gewesen, ihr s
 
 [→ sein](../vocabulary/Verben.md#sein)
 
+## sich anmelden
+
+ich habe mich angemeldet, du hast dich angemeldet, er/sie/es hat sich angemeldet, wir haben uns angemeldet, ihr habt euch angemeldet, sie haben sich angemeldet  
+
+[sr] prijavio sam se, prijavio si se, prijavio se, prijavili smo se, prijavili ste se, prijavili su se  
+[en] I have registered, you have registered, he/she/it has registered, we have registered, you have registered, they have registered  
+
+[→ sich anmelden](../vocabulary/Verben.md#sich-anmelden)
+
 ## sich anfühlen
 
 ich habe mich angefühlt, du hast dich angefühlt, er/sie/es hat sich angefühlt, wir haben uns angefühlt, ihr habt euch angefühlt, sie haben sich angefühlt  
@@ -118,6 +163,15 @@ ich habe mich angefühlt, du hast dich angefühlt, er/sie/es hat sich angefühlt
 [en] I have felt, you have felt, he/she/it has felt, we have felt, you have felt, they have felt  
 
 [→ sich anfühlen](../vocabulary/Verben.md#sich-anfühlen)
+
+## sprechen
+
+ich habe gesprochen, du hast gesprochen, er/sie/es hat gesprochen, wir haben gesprochen, ihr habt gesprochen, sie haben gesprochen  
+
+[sr] govorio sam, govorio si, govorio je, govorili smo, govorili ste, govorili su  
+[en] I have spoken, you have spoken, he/she/it has spoken, we have spoken, you have spoken, they have spoken  
+
+[→ sprechen](../vocabulary/Verben.md#sprechen)
 
 ## starten
 
@@ -136,6 +190,15 @@ ich habe gestanden, du hast gestanden, er/sie/es hat gestanden, wir haben gestan
 [en] I have stood, you have stood, he/she/it has stood, we have stood, you have stood, they have stood  
 
 [→ stehen](../vocabulary/Verben.md#stehen)
+
+## unterstreichen
+
+ich habe unterstrichen, du hast unterstrichen, er/sie/es hat unterstrichen, wir haben unterstrichen, ihr habt unterstrichen, sie haben unterstrichen  
+
+[sr] podvukao sam, podvukao si, podvukao je, podvukli smo, podvukli ste, podvukli su  
+[en] I have underlined, you have underlined, he/she/it has underlined, we have underlined, you have underlined, they have underlined  
+
+[→ unterstreichen](../vocabulary/Verben.md#unterstreichen)
 
 ## verwenden
 

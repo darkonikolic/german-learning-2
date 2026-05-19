@@ -10,6 +10,7 @@ Reči iz `vocabulary/` grupisane po temama. Linkovi vode na glavni rečnik.
 | Slabi glagoli | [grammatik/schwache-verben.md](grammatik/schwache-verben.md) |
 | Razdvojivi glagoli | [grammatik/trennbare-verben.md](grammatik/trennbare-verben.md) |
 | Refleksivni glagoli | [grammatik/reflexive-verben.md](grammatik/reflexive-verben.md) |
+| W-pitanja | [grammatik/w-fragen.md](grammatik/w-fragen.md) |
 
 ## Alltag
 

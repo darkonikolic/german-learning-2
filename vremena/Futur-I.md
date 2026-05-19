@@ -20,6 +20,15 @@ ich werde abreißen, du wirst abreißen, er/sie/es wird abreißen, wir werden ab
 
 [→ abreißen](../vocabulary/Verben.md#abreißen)
 
+## ankreuzen
+
+ich werde ankreuzen, du wirst ankreuzen, er/sie/es wird ankreuzen, wir werden ankreuzen, ihr werdet ankreuzen, sie werden ankreuzen  
+
+[sr] zaokružiću, zaokružićeš, zaokružiće, zaokružićemo, zaokružićete, zaokružiće  
+[en] I will check off, you will check off, he/she/it will check off, we will check off, you will check off, they will check off  
+
+[→ ankreuzen](../vocabulary/Verben.md#ankreuzen)
+
 ## anziehen
 
 ich werde anziehen, du wirst anziehen, er/sie/es wird anziehen, wir werden anziehen, ihr werdet anziehen, sie werden anziehen  
@@ -28,6 +37,15 @@ ich werde anziehen, du wirst anziehen, er/sie/es wird anziehen, wir werden anzie
 [en] I will attract, you will attract, he/she/it will attract, we will attract, you will attract, they will attract  
 
 [→ anziehen](../vocabulary/Verben.md#anziehen)
+
+## ausfüllen
+
+ich werde ausfüllen, du wirst ausfüllen, er/sie/es wird ausfüllen, wir werden ausfüllen, ihr werdet ausfüllen, sie werden ausfüllen  
+
+[sr] popuniću, popunićeš, popuniće, popunićemo, popunićete, popuniće  
+[en] I will fill out, you will fill out, he/she/it will fill out, we will fill out, you will fill out, they will fill out  
+
+[→ ausfüllen](../vocabulary/Verben.md#ausfüllen)
 
 ## bedecken
 
@@ -55,6 +73,24 @@ ich werde heißen, du wirst heißen, er/sie/es wird heißen, wir werden heißen,
 [en] I will be called, you will be called, he/she/it will be called, we will be called, you will be called, they will be called  
 
 [→ heißen](../vocabulary/Verben.md#heißen)
+
+## kommen
+
+ich werde kommen, du wirst kommen, er/sie/es wird kommen, wir werden kommen, ihr werdet kommen, sie werden kommen  
+
+[sr] doći ću, doći ćeš, doći će, doći ćemo, doći ćete, doći će  
+[en] I will come, you will come, he/she/it will come, we will come, you will come, they will come  
+
+[→ kommen](../vocabulary/Verben.md#kommen)
+
+## lernen
+
+ich werde lernen, du wirst lernen, er/sie/es wird lernen, wir werden lernen, ihr werdet lernen, sie werden lernen  
+
+[sr] učiću, učićeš, učiće, učićemo, učićete, učiće  
+[en] I will learn, you will learn, he/she/it will learn, we will learn, you will learn, they will learn  
+
+[→ lernen](../vocabulary/Verben.md#lernen)
 
 ## helfen
 
@@ -110,6 +146,15 @@ ich werde sein, du wirst sein, er/sie/es wird sein, wir werden sein, ihr werdet 
 
 [→ sein](../vocabulary/Verben.md#sein)
 
+## sich anmelden
+
+ich werde mich anmelden, du wirst dich anmelden, er/sie/es wird sich anmelden, wir werden uns anmelden, ihr werdet euch anmelden, sie werden sich anmelden  
+
+[sr] prijaviću se, prijavićeš se, prijaviće se, prijavićemo se, prijavićete se, prijaviće se  
+[en] I will register, you will register, he/she/it will register, we will register, you will register, they will register  
+
+[→ sich anmelden](../vocabulary/Verben.md#sich-anmelden)
+
 ## sich anfühlen
 
 ich werde mich anfühlen, du wirst dich anfühlen, er/sie/es wird sich anfühlen, wir werden uns anfühlen, ihr werdet euch anfühlen, sie werden sich anfühlen  
@@ -118,6 +163,15 @@ ich werde mich anfühlen, du wirst dich anfühlen, er/sie/es wird sich anfühlen
 [en] I will feel, you will feel, he/she/it will feel, we will feel, you will feel, they will feel  
 
 [→ sich anfühlen](../vocabulary/Verben.md#sich-anfühlen)
+
+## sprechen
+
+ich werde sprechen, du wirst sprechen, er/sie/es wird sprechen, wir werden sprechen, ihr werdet sprechen, sie werden sprechen  
+
+[sr] govoriću, govorićeš, govoriće, govorićemo, govorićete, govoriće  
+[en] I will speak, you will speak, he/she/it will speak, we will speak, you will speak, they will speak  
+
+[→ sprechen](../vocabulary/Verben.md#sprechen)
 
 ## starten
 
@@ -136,6 +190,15 @@ ich werde stehen, du wirst stehen, er/sie/es wird stehen, wir werden stehen, ihr
 [en] I will stand, you will stand, he/she/it will stand, we will stand, you will stand, they will stand  
 
 [→ stehen](../vocabulary/Verben.md#stehen)
+
+## unterstreichen
+
+ich werde unterstreichen, du wirst unterstreichen, er/sie/es wird unterstreichen, wir werden unterstreichen, ihr werdet unterstreichen, sie werden unterstreichen  
+
+[sr] podvući ću, podvući ćeš, podvući će, podvući ćemo, podvući ćete, podvući će  
+[en] I will underline, you will underline, he/she/it will underline, we will underline, you will underline, they will underline  
+
+[→ unterstreichen](../vocabulary/Verben.md#unterstreichen)
 
 ## verwenden
 

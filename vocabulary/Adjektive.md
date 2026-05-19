@@ -50,12 +50,27 @@
 
 [Kunst](../themen/gesellschaft/kunst.md#leuchtend)
 
+## männlich {#männlich}
+
+[sr] muški
+[en] male
+
 ## neu
 
 [sr] nov
 [en] new
 
+## richtig {#richtig}
+
+[sr] tačan, ispravan
+[en] correct, right
+
 ## unklar
 
 [sr] nejasan
 [en] unclear
+
+## weiblich {#weiblich}
+
+[sr] ženski
+[en] female

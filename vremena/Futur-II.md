@@ -20,6 +20,15 @@ ich werde abgerissen haben, du wirst abgerissen haben, er/sie/es wird abgerissen
 
 [→ abreißen](../vocabulary/Verben.md#abreißen)
 
+## ankreuzen
+
+ich werde angekreuzt haben, du wirst angekreuzt haben, er/sie/es wird angekreuzt haben, wir werden angekreuzt haben, ihr werdet angekreuzt haben, sie werden angekreuzt haben  
+
+[sr] biću zaokružio, bićeš zaokružio, biće zaokružio, bićemo zaokružili, bićete zaokružili, biće zaokružili  
+[en] I will have checked off, you will have checked off, he/she/it will have checked off, we will have checked off, you will have checked off, they will have checked off  
+
+[→ ankreuzen](../vocabulary/Verben.md#ankreuzen)
+
 ## anziehen
 
 ich werde angezogen haben, du wirst angezogen haben, er/sie/es wird angezogen haben, wir werden angezogen haben, ihr werdet angezogen haben, sie werden angezogen haben  
@@ -28,6 +37,15 @@ ich werde angezogen haben, du wirst angezogen haben, er/sie/es wird angezogen ha
 [en] I will have attracted, you will have attracted, he/she/it will have attracted, we will have attracted, you will have attracted, they will have attracted  
 
 [→ anziehen](../vocabulary/Verben.md#anziehen)
+
+## ausfüllen
+
+ich werde ausgefüllt haben, du wirst ausgefüllt haben, er/sie/es wird ausgefüllt haben, wir werden ausgefüllt haben, ihr werdet ausgefüllt haben, sie werden ausgefüllt haben  
+
+[sr] biću popunio, bićeš popunio, biće popunio, bićemo popunili, bićete popunili, biće popunili  
+[en] I will have filled out, you will have filled out, he/she/it will have filled out, we will have filled out, you will have filled out, they will have filled out  
+
+[→ ausfüllen](../vocabulary/Verben.md#ausfüllen)
 
 ## bedecken
 
@@ -55,6 +73,24 @@ ich werde geheißen haben, du wirst geheißen haben, er/sie/es wird geheißen ha
 [en] I will have been called, you will have been called, he/she/it will have been called, we will have been called, you will have been called, they will have been called  
 
 [→ heißen](../vocabulary/Verben.md#heißen)
+
+## kommen
+
+ich werde gekommen sein, du wirst gekommen sein, er/sie/es wird gekommen sein, wir werden gekommen sein, ihr werdet gekommen sein, sie werden gekommen sein  
+
+[sr] biću došao, bićeš došao, biće došao, bićemo došli, bićete došli, biće došli  
+[en] I will have come, you will have come, he/she/it will have come, we will have come, you will have come, they will have come  
+
+[→ kommen](../vocabulary/Verben.md#kommen)
+
+## lernen
+
+ich werde gelernt haben, du wirst gelernt haben, er/sie/es wird gelernt haben, wir werden gelernt haben, ihr werdet gelernt haben, sie werden gelernt haben  
+
+[sr] biću naučio, bićeš naučio, biće naučio, bićemo naučili, bićete naučili, biće naučili  
+[en] I will have learned, you will have learned, he/she/it will have learned, we will have learned, you will have learned, they will have learned  
+
+[→ lernen](../vocabulary/Verben.md#lernen)
 
 ## helfen
 
@@ -110,6 +146,15 @@ ich werde gewesen sein, du wirst gewesen sein, er/sie/es wird gewesen sein, wir 
 
 [→ sein](../vocabulary/Verben.md#sein)
 
+## sich anmelden
+
+ich werde mich angemeldet haben, du wirst dich angemeldet haben, er/sie/es wird sich angemeldet haben, wir werden uns angemeldet haben, ihr werdet euch angemeldet haben, sie werden sich angemeldet haben  
+
+[sr] biću se prijavio, bićeš se prijavio, biće se prijavio, bićemo se prijavili, bićete se prijavili, biće se prijavili  
+[en] I will have registered, you will have registered, he/she/it will have registered, we will have registered, you will have registered, they will have registered  
+
+[→ sich anmelden](../vocabulary/Verben.md#sich-anmelden)
+
 ## sich anfühlen
 
 ich werde mich angefühlt haben, du wirst dich angefühlt haben, er/sie/es wird sich angefühlt haben, wir werden uns angefühlt haben, ihr werdet euch angefühlt haben, sie werden sich angefühlt haben  
@@ -118,6 +163,15 @@ ich werde mich angefühlt haben, du wirst dich angefühlt haben, er/sie/es wird 
 [en] I will have felt, you will have felt, he/she/it will have felt, we will have felt, you will have felt, they will have felt  
 
 [→ sich anfühlen](../vocabulary/Verben.md#sich-anfühlen)
+
+## sprechen
+
+ich werde gesprochen haben, du wirst gesprochen haben, er/sie/es wird gesprochen haben, wir werden gesprochen haben, ihr werdet gesprochen haben, sie werden gesprochen haben  
+
+[sr] biću govorio, bićeš govorio, biće govorio, bićemo govorili, bićete govorili, biće govorili  
+[en] I will have spoken, you will have spoken, he/she/it will have spoken, we will have spoken, you will have spoken, they will have spoken  
+
+[→ sprechen](../vocabulary/Verben.md#sprechen)
 
 ## starten
 
@@ -136,6 +190,15 @@ ich werde gestanden haben, du wirst gestanden haben, er/sie/es wird gestanden ha
 [en] I will have stood, you will have stood, he/she/it will have stood, we will have stood, you will have stood, they will have stood  
 
 [→ stehen](../vocabulary/Verben.md#stehen)
+
+## unterstreichen
+
+ich werde unterstrichen haben, du wirst unterstrichen haben, er/sie/es wird unterstrichen haben, wir werden unterstrichen haben, ihr werdet unterstrichen haben, sie werden unterstrichen haben  
+
+[sr] biću podvukao, bićeš podvukao, biće podvukao, bićemo podvukli, bićete podvukli, biće podvukli  
+[en] I will have underlined, you will have underlined, he/she/it will have underlined, we will have underlined, you will have underlined, they will have underlined  
+
+[→ unterstreichen](../vocabulary/Verben.md#unterstreichen)
 
 ## verwenden
 

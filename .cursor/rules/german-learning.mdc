@@ -83,7 +83,7 @@ One file per type. Words sorted alphabetically (ABC). Format per word:
 
 ```
 
-- **Substantive**: heading with article – `## der Arbeit`, `## die Kunst`, `## das Jahr`
+- **Substantive**: heading with article in singular only (stable anchor for links): `## der Abend`, `## die Kunst`, `## das Jahr`. **Next line** (before `[sr]`): singular and plural with articles: `der Abend / die Abende`. Plural article is usually **die**. If there is no usual plural, use `—` after the slash (e.g. `das Internet / —`).
 - **Verben**: infinitive only. Each verb has links to its forms in `vremena/` (Präsens, Perfekt, Präteritum, Plusquamperfekt, Futur I, Futur II).
 - **Translations**: [sr] Serbian, [en] English
 - **Sort**: words alphabetically (ABC)

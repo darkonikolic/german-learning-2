@@ -11,6 +11,15 @@ abreißen
 
 [→ abreißen](../../vocabulary/Verben.md#abreißen)
 
+## ankreuzen
+
+ankreuzen
+
+[sr] zaokružiti, označiti krstićem (na obrascu)
+[en] to check off, to mark with a cross
+
+[→ ankreuzen](../../vocabulary/Verben.md#ankreuzen)
+
 ## anziehen
 
 anziehen
@@ -20,6 +29,15 @@ anziehen
 
 [→ anziehen](../../vocabulary/Verben.md#anziehen)
 
+## ausfüllen
+
+ausfüllen
+
+[sr] popuniti (obrazac)
+[en] to fill out (a form)
+
+[→ ausfüllen](../../vocabulary/Verben.md#ausfüllen)
+
 ## sich anfühlen
 
 sich anfühlen
@@ -28,3 +46,12 @@ sich anfühlen
 [en] to feel
 
 [→ sich anfühlen](../../vocabulary/Verben.md#sich-anfühlen)
+
+## sich anmelden
+
+sich anmelden
+
+[sr] prijaviti se, registrovati se
+[en] to register, to sign up
+
+[→ sich anmelden](../../vocabulary/Verben.md#sich-anmelden)
